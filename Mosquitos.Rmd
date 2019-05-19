@@ -1,0 +1,158 @@
+---
+title: "MOSQUITOS"
+output: html_document
+---
+# ABUNDANCIA DE AEDES AEGYPTI EN CÓRDOBA
+## Integrantes:
+### Moreno Tamara,
+### Bornancini Verónica,
+### Pauro Maia,
+
+## Introducción:
+
+### Se midió la abundancia del mosquito Aedes aegypti debido a su importancia epidemiológica, como vector del virus Dengue.
+### El muestreo se realizó de manera aleatoria en la ciudad de Córdoba durante el periodo de primavera-verano.
+### Se calcularon tres índices ambientales a partir de imágenes satelitales para determinar que variable explica la abundancia de esta especie de mosquito.  
+### Los tres índices calculados fueron 
+### NDVI = verdor
+### NDWI = humedad 
+### TB = temperatura.
+### El objetivo de este trabajo es llegar al mejor modelo que explique la abundancia de Aedes aegypti en la ciudad de Córdoba.
+
+```{r, include=FALSE, cache=TRUE}
+datos <- read.table ("D:/Desktop/mosquitos/mosquitos.txt", header = TRUE)
+```
+## Análisis:
+
+### variables
+### Y= abund
+### X1= verdor
+### X2= humedad
+### X3= temperatura
+
+## Exploración de los datos:
+### Graficos exploratorios para previsualizar las variables
+#### Las variables muestran distribuciones homogéneas
+
+```{r,cache=TRUE, echo=FALSE}
+layout(matrix(1:4,2,2))
+plot(datos$abund);
+plot(datos$verdor);
+plot(datos$humedad);
+plot(datos$temperatura); 
+layout(1)
+```
+
+### Exploración bivariada de los datos
+```{r,cache=TRUE,echo=FALSE}
+pairs(datos)
+```
+
+### Detección de la colinealidad
+#### scatterplotMatrix
+```{r, include=FALSE}
+library(car)
+```
+
+```{r,cache=TRUE,echo=FALSE, warning = FALSE}
+scatterplotMatrix(~ verdor + humedad + temperatura,
+                  smooth=TRUE,  
+                  diagonal = 'density', 
+                  data = datos) 
+```
+
+#### Cálculo de colinealidad ó correlación entre las variables
+##### Las variables se seleccionaron teniendo en cuenta el criterio de r<0,7.
+##### No se registraron variables con r>0,7, por lo tanto según este criterio no se debería eliminar ninguna variable.
+
+```{r, echo=FALSE}
+CORR <- cor(datos[, c("verdor","humedad", "temperatura")]) 
+CORR
+```
+
+#### Calculo de inflación de la varianza
+##### Las variables se seleccionaron teniendo en cuenta el criterio de vif < 5.
+##### No se registraron variables con vif > 5, por lo tanto según este criterio no se debería eliminar ninguna variable.
+
+```{r, echo=FALSE}
+fit <- lm(abund ~ verdor + humedad + temperatura, data = datos) 
+vif(fit) 
+```
+
+##### Las variables del modelo no presentan colinealidad.
+
+#### Análisis de supuestos
+##### El modelo es lineal y normal
+
+```{r, echo=FALSE}
+layout(matrix(1:4, 2, 2))
+plot(fit)
+layout(1)
+```
+
+## Selección del modelo más óptimo.
+### Contrucción de todos los modelos posibles (busqueda exhaustiva).
+
+```{r include=FALSE}
+library(leaps)
+BS.fit <- regsubsets(abund ~ verdor + humedad + temperatura, 
+                     data = datos, 
+                     method = "exhaustive")
+```
+
+```{r, echo=FALSE,}
+BS.summary <- summary(BS.fit)
+BS.summary 
+```
+
+### Análisis de los criterios de selección de variables.
+#### El mejor modelo es el menos variable y el menos sesgado.
+
+```{r, echo=FALSE}
+plot(BS.summary$cp, 
+     xlab = "número de variables", 
+     ylab = "Cp", type ="l") 
+
+plot(BS.fit, scale = "Cp")
+
+plot(BS.summary$bic, 
+     xlab = "número de variables", 
+     ylab = "BIC", type ="l")
+
+plot(BS.fit, scale = "bic")
+```
+
+#### según Cp= el mejor modelo tiene 1 variable, y es= verdor
+#### según BIC= el mejor modelo tiene 1 variable, y es= verdor
+
+#### Se seleccionó el modelo más predictivo, es decir, aquel con menos variables. En este caso los criterios de Cp y Bic coinciden.
+
+```{r, echo=FALSE}
+coef(BS.fit, 1)
+```
+
+```{r, echo=FALSE}
+fit2 <- lm(abund ~ verdor, data = datos)
+```
+
+```{r,cache=TRUE, echo=FALSE}
+layout(matrix(1:4, 2, 2))
+plot(fit2)
+layout(1)
+```
+
+## Gráfico utilizando ggplot2
+```{r include=FALSE}
+library(ggplot2)
+```
+
+```{r,cache=TRUE, echo=FALSE}
+ggplot(data = datos, aes(x = verdor, y = abund)) + geom_point()
+g1 <- ggplot(data = datos, aes(x = verdor, y = abund))  
+g2 <- g1 + geom_point(size=1, color="red") 
+g3 <- g2 + xlab("Verdor")  
+g4 <- g3 + ylab("Abundancia")
+g5 <- g4 + theme_bw()
+g6 <- g5 + geom_smooth(method = "lm")
+g6
+```
