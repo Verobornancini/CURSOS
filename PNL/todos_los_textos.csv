@@ -1,0 +1,2157 @@
+text
+jaja tranquila
+luego me voy del canal :slightly_smiling_face:
+Buenas ! me metí para invitar al bot. dsp de que descargue esta noche los mensajes quiero hacer una prueba
+<@U01BXC8LK27> se ha unido al canal
+/ invite <@U01BXC8LK27>
+<@U01BS8YKHS8> se ha unido al canal
+Lunes a las 10h. Gracias. Voy a ver si puede ir adelantando.
+Yo podría el lunes a las 10 ARG
+"Ya tengo acceso a Typeform.
+
+¿Qué día podemos ver el flujo de las preguntas?"
+Hola
+en la presentacion tenias solo fecha hora ... cambiaste algo ?
+:clap:
+"una cosa lean, en la captura del scheduler tienes una vista de un calendario"
+ole ole
+muy bien chicos
+:slightly_smiling_face:
+Te llego otro mail Ivan?
+Ahi Gonzalo nos dijo que si vamos a usar el stack mean-1 que esta en lightsail
+Jose
+Lo hago
+Es parte de las pruebas
+Bien
+Si
+Ivan te llego un mail?
+"<@U01BDB84630> me compartes el enlace, ya hablé con Alfredo."
+Sigan con eso.
+Hola Vero. No te preocupes.
+"Hola buenos días ! todo, bien, a las 11.30 tenemos seteada una reunión con Gonzalo que nos va a guiar en el despliegue. la semana pasada nos contó todos los pasos, pero hoy nos va a acompañar a hacerlo"
+Por favor envíame el enlace. Gracias.
+Y seguramente vamos a hablar cosas internas
+Por ahi hay que corregir algo de esta
+Te invitamos a una demo oficial
+No es la idea
+Estaré de oyente.
+Invítame por favor.
+Es interna bitlogic
+Me envías por favor la invitación.
+A nuestras 14
+<@U01BYMTTXCH> y <@U01BS8YKHS8> como van con la demo ?
+¿La demo interna a qué hora la tienen?
+Creo que no sirve 
+Entonces hoy no habrá daily?
+"Vale, Ahora lo miro y también les digo a DH"
+Ahi voy a modificar el slides para cubrir bien el statua
+Cuando les venga bien
+Qué día?
+Nos juntemos esta semana para cerrar diagramas de flujo y definir el servicio a partir del lanzamiento 
+No se como vienen loa chicos de tiempo 
+O cómo podemos organizarnos para el lanzamiento del MVP
+Hoy tenemos demo interna 
+"Hola. Buen día.
+
+Vi que hubo actualización en la Daily, habrá hoy?"
+Dale
+<@U01B5AZNSB1> nos ayudas con esto por favor.
+"Add all of these records to GoDaddy's DNS section.
+TYPE*HOSTPOINTS TO*CNAMEurl6585.teampulse.ioCopy
+sendgrid.netCopy
+CNAME19425265.teampulse.ioCopy
+sendgrid.netCopy
+CNAMEem7776.teampulse.ioCopy
+u19425265.wl016.sendgrid.netCopy
+CNAMEs1._domainkey.teampulse.ioCopy
+s1.domainkey.u19425265.wl016.sendgrid.netCopy
+CNAMEs2._domainkey.teampulse.ioCopy
+<http://s2.domainkey.u19425265.wl016.sendgrid.net|s2.domainkey.u19425265.wl016.sendgrid.net>"
+Hay que agregarlos a godady
+Dale
+:+1:
+"Vale. Entonces la dejamos para el lunes,
+Cualquier cosa por aquí ando."
+opino como Lean
+buenas !
+"Como ustedes digan, solo díganme para conectarme o no."
+"Buenas, me parece que hacerla hoy no vale la pena!"
+Buen día. ¿Hoy habrá daily?
+Estaba en reunión
+Te envié un whats
+<@U01B5AQPV39> sin el acceso a sendgrid no puedo hacer la integración con el envio de mails
+"Habíamos quedado en eso, disculpen si entendí otra cosa y no me sume"
+Pensé que no había
+"si, si están me sumo"
+ahh yo entendí que no había
+Se suman a la daily?
+"<@U01B5AQPV39> ha cambiado el nombre del canal de ""dailys"" a ""daily"""
+Gracias!
+"Vero y Lean, qué buen avance, bien bajado todo."
+ahh buena observación
+Seguro fui yo ese
+Fijate que tienen el mismo patron de usar el signo !
+en rojo marqué cosas que me llamaron la atención porque no condicen... le tengo más confianza a la librería en inglés
+"con el texto en español (verde) obtengo las nuevas columnas... lo que me dá es un porcentaje de negatividad, neutralidad y positividad de cada mensaje y dsp toma una decisión y lo clasifica en uno de los 3... lo guardé en la columna CLASS"
+Excelente Vero!
+con el texto en inglés (celeste) obtengo los indices que ya habiamos visto
+he aqui los resultados
+"Segundo: probé la librería nueva que trabaja con textos en español, asi no tendríamos la necesidad de traducir..."
+"Primero: después de mucha búsqueda, vi que solo hay 6 librerías de traducción que son las más usadas y recomendadas... la mayoría se basan por detrás en la API de google translate.... me di con que me surge el problema de que hacemos demasiadas request... pero pero pero.... logré darle la vuelta de rosca y ahora ya podemos traducir, seteándole un tiempo de sleep entre cada request."
+En cuanto a lo del análisis de polaridad... a ver que opinan
+Sino que a todos
+Quedamos en que por ahora no se va a seleccionar a quien enviar
+"No, como todas las entrevistas se modifican segun quien sea el que responde"
+Hermoso
+Y mandarla jajajaj
+Ahora viene la fiesta elegir a quien se la mandas
+yo tengo algo que comentarles.... respecto del análisis de polaridad
+me gusta mucho !! felicitaciones !
+Visual lista
+Sprint que viene?
+Eso nos ayudaría muchisimo
+Si
+<@U01BYMTTXCH> 
+De ahi los deberiamos poblar en el mongo
+"Buenas ! en la encuesta actual,  tenemos los datos que marque en negrita.... el resto de los datos no se preguntaron asi que no los tenemos"
+"*ID del empleado:* tenemos un número generado al responder la encuesta
+Nombre /
+Apellido /
+Fecha de Nacimiento /
+*Fecha de ingreso a la cía:* Tenemos el dato de la antigüedad
+Gerencia /
+*Subgcia, sector o área:* Tenemos el dato del equipo de trabajo
+Género /
+*Lidera equipo (s/n):* Tenemos el dato del puesto
+Fecha desde la que lidera equipo"
+Un saludo.
+"ID del empleado / Nombre / Apellido / Fecha de Nacimiento / Fecha de ingreso a la cía / Gerencia / Subgcia, sector o área / Género / Lidera equipo (s/n) / Fecha desde la que lidera equipo
+
+Estos datos nos los podría pasar Vero de RRHH de Bitlogic y que considera DH que son buenos a la hora de las encuestas.
+Con ellos podríamos cruzar información y tener la data sin sesgos.
+Si ven uno que no este y sea conveniente me lo dicen para pedirlo y agregarlo."
+"Ivan, si querés podes compartir esta imagen... ami no me deja"
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09>
+Gracias
+Docker
+"Anaconda, Python, Jupyter Notebook, GitHub, Docker"
+"React js, Express, Node js, Mongo DB, Google sheets, git, aws"
+"Así como las que en un futuro ven necesarias.
+
+Gracias"
+Si
+Hola. Ya me lo han pasado pero no lo encuentro. Me comparten las tecnologías que utilizamos por favor.
+buenos días Lean !
+Hoy voy a estar con el proceso de envio de encuestas
+"Buen día, como estan?"
+Me parece mejor la opción 3
+"Una pregunta. Bitlogic nos pasará la información de los colaboradores como, nombre, fecha de ingreso, si lleva a personas, área y dos más que ahora no recuerdo.
+
+Mi pregunta es, ¿una vez que tengamos esta información tendríamos un registro único durante todo el tiempo que responde una persona de todas las preguntas?
+Me refiero a la trazabilidad, saber que siempre nos ha respondido JUAN PEREZ"
+<https://github.com/finiteautomata/pysentimiento/>
+"La opción 3 puede ser. Cómo se llama la librería, estoy en el Clúster de IA y puede ver si desde ahí nos puedan apoyar."
+La directora es laura ?
+"*Como opciones:*
+*1-* podemos ver la posibilidad de tener una cuenta para poder pegarle a la api accediendo con tokens seguramente... no se si eso tendrá un costo... supongo que si....
+*2-* puedo buscar otra forma de traducir... ya había probado T*extBlob* pero me había pasado lo mismo por eso me cambie a *googletrans*
+*3-* la directora de la diplomatura me compartió una librería para análisis de texto en español que salió la semana pasada, es super nueva... es desarrollada por unos amigos de ella en España.... asi que al menos tenemos esa otra opción."
+"resulta que llegué al limite de traducciones desde una IP particular... lo que no se es si tengo que esperar para volver a traducir, o puedo tener la IP temporalmente bloqueada por la API de google...."
+Buenas !!! ya se que sucede con las traducciones....
+entones antes que palabra valdria usar sendgrid
+"Nos va ayudar bastante, Vamos a tener esto JL:
+
+12 months of email credit worth ($339.95/month) which gives you access to the Pro 100 Email API &amp; Advanced 50 plans.
+A one-time $100 “getting-started” Twilio credit.
+Office hours &amp; mentoring from Twilio team of experts.
+6 months free access to <http://Loader.io|Loader.io> to stress test web apps &amp; APIs."
+igual whatsapp oficial te acaba costando una cantidad interesante de plata
+Seeeeee
+para whatsapp esta hermoso
+Puede ser un canal para el bot
+Si
+y en voz tienen mucho
+sms ...
+TWILIO ESTA HERMOSO del lado de chatbot via whatsapp y demas
+"Ya me di de alta, ahora hay que esperar a que verifiquen que estamos en el programa de ISDI.
+Pero bien, en cuanto tenga la información te la comparto."
+Pero lo hago hoy.
+Doy de alta hoy la cuenta. Habrá que escribir a los de Twilio para que nos activen la promo. Desconozco el tienpo que pueden tardar.
+Con un godady y chau
+Si
+Igual tenemos que ver como levantar el mongo
+Si
+que suerte tener un buen mentor en estas cosas :slightly_smiling_face:
+AHI LE APUNTAMOS UN SUBdomain y listo no +
+Un crack Gonzalo
+BIEN AHI
+Esta subido
+<http://54.167.4.192/>
+<@U01B5AQPV39> generaste la cuenta del twilio?
+Si
+creo que la calve ahora es el excheduler
+<@U01B5AQPV39> tenes algo de la visual de el envio de encuestas?
+dejalo para lo ultimo
+Lo de GTM lo voy a poder hacer una vez que este deployado el sistema
+Si
+Y nos dan créditos. Importante aclarar.
+Es bastante potente
+Ivan estuvo haciendo un research
+<@U01BDB84630> <https://www.twilio.com/> Vamos  a usar esta aplicacion en lugar de <http://palabra.io|palabra.io>
+No me llego
+Dime si la tienes
+Enviada.
+No me llego
+Revisa tu mail y si no la tienes te la envío de nuevo.
+Te pase la invitación. Miércoles 25 a las 12h (Arg)
+A que hora estan esas reuniones ivan?
+"El objetivo es simple. Que vean el producto y cómo lo hemos hecho.
+Si para esa fecha además de lo que tenemos hay un avance más sería lo mejor.
+El martes 24 lo hablamos y dedicamos esa sesión a pensar lo que vamos a decir.
+
+¿<@U01BDB84630> podemos extender la daily 15 min más, así vemos daily y ""pitch de producto ISDI""?"
+Revisando las fechas hablamos el 24 y el 25 tenemos con ISDI sesión de producto
+<https://erudit.ai/connectors>
+<https://www.youtube.com/watch?v=O6czmK1y1Eg&amp;feature=emb_title>
+Hola Leandro. Lo miro.
+"Ivan, te pido que generes una cuenta en <http://palabra.io|palabra.io> si puede ser"
+jajaja
+4K
+Jajajaja
+jaja
+Vas a volver a ver en hd
+Ya se organizan con Hernán y Victoria
+:wink:
+Sin probelama
+No pasa nada Vero!
+"Buenas ! les quería avisar que voy a necesitar salir un rato a eso de las 17.00, porque recién me avisaron que ya está listo mi otro par de lentes... asi que me llego a la óptica a buscarlos y vuelvo...."
+"Bueno, vuelvo a tener PC"
+Gracias Vero
+Entregables para Bitlogic -Encuestas de Bienestar
+Hasta la tarde
+Los dejo
+Vegano
+Jajaja
+Es la razon de hacer un asado
+Ahi te levantas intacto al otro día
+Salvo que comas algo grasoso
+Tengo una mala salud de hierro
+A mi menos
+El tema es que la resaca no dura un día
+Y a partir de aho ya no tengo muchos planes concretos
+A los 100 pasare hasta los 120 recueparandome del cumpleaños 
+Y asi sicesivamente
+Y luego a los 60 como lo hacía a los 40 osea como a los 20
+"jaja un mix, 25"
+Jajajaj
+Ahora tocA como a los 30 que es mas peligroso 
+"jajaja perjudicado.
+No te preocupes.
+Festeja como de 20"
+50 no se cumplen todos los días
+Esta perfecto
+Cumplo 50
+Chicos antes de la planning mañana es mi cumple asi que voy a estar muy poco presente mañana y si hay celebración probablemente pasado este un poco perjudicado
+genial !
+En la Daily de hoy se suma una scrummaster que nos va a ayudar con el ultimo sprint
+Ahora tenemos daily ?
+es para las 13.15 nuestras
+<https://meet.google.com/yii-hjrk-vhp?authuser=1>
+no me deja agregarte.... porque lo creó ivan.... pero este es el enlace
+Así discutimos la historia
+Súmenme a lo del bot plis
+ok Ivan ! :wink:
+"Hola. Buen día. Hoy no podré estar en la daily. Luego me pongo al día.
+
+<@U01BS8YKHS8> hablamos a la hora que quedamos para el texto del bot.
+
+Buen viernes."
+ok :wink:
+No tendremos reunión tampoco con el de ISDI. Les digo de una fecha cuando sepa algo.
+Vale
+Pero vamos a usar el tiempo para cerrar bien el ultimo sprint
+No
+"Ahhh ok, sucedió algo ?"
+Vamos a tener que suspender la grommino
+Me acorde d lo que habíamos hablado
+No pude hablar
+Se ve muy lindo Lean ! felicitaciones !
+Pudiste hablar con Esteban?
+genial! después si te parece que cambiemos los colores de los otros gráficos avisame nomás
+Va bien ese color. Me gusta.
+y... les parece que este color se asemeja a los de teampulse ??? no puedo editar justo el mismo color... pero busque uno similar
+Jajajaja
+ami me gusta mas empleado.... jaja
+Empleado o colaborador
+uso la palabra 'empleado' en los gráficos?? o quieren otra palabra ?
+Diga
+pregunta...
+ya me conecto
+a partir de acá entramos al análisis y visualización de los datos
+Les voy compartiendo un informe del proceso de exploracion y limpieza de la base de datos de la encuesta
+"ok, recien me pongo con las encuentas, porque estaba trabajando la base de datos de slack"
+Así mañana en mi mañana lo miro.
+Por mi bien. <@U01BS8YKHS8> pásame hoy lo que tengas para darle una vuelta también.
+mejor mañana si pueden. asi les muestro con qué avance hoy
+Avisa nomas
+Voy en carretera ahora.
+Si. Mañana lo podemos ver u hoy más tarde.
+"ok, ya me puse con esto josé... estoy haciendo la limpieza primero..."
+<@U01B5AQPV39> esto es medio crítico teniendo en cuenta cuando sacaron la encuesta. Puedes ayudar a que suceda asap ?
+"Seria muy deseable. Quieres que nos juntemos con el dashboard, los datos y <@U01BH0Q8MHB> y que lo analicemos con amor ? "
+si si.... vos preferís que yo me valla poniendo a analizar las encuestas de bitlogic ?
+Eso está bien. Pero lo primero es que tenemos al primer cliente (que ademas es nuestro pagador) que quiere poder empezar a usar sus datos en nuestro dash.
+"yo puedo ponerme con eso e ir viendo que le pregunto a las respuestas obtenidas y que información puedo extraer..... pero antes de graficar a tontas y a locas como se diría, le pedí a Hernan que me guiara con preguntas, de que tipo de info les seria util recolectar"
+"si si, es para los datos que ya tenemos"
+Es una petición reiterada de veronica
+Pero el tema es ver como volcamos los resultados que ya tenemos en el dashboard que ya tenemos
+Ok
+"me dijo que cuando las tuviera, me iba a decir esta semana asi me las pasa y yo con esos lineamientos, me puedo guiar para trabajar con los datos de las encuestas"
+también le pedi que me planteara que preguntas quiere responder con los datos  de las encuestas... asi yo a partir de eso trabajo con las respuestas para generar graficos que respondan a esas preguntas
+"si josé.... ya me junté la semana pasada con él... y le plantié que buscara de unir los grupos de indicadores que ellos crearon con las 60 preguntas para ver si las preguntas de bitlogic se alinean a eso, aunque sea en parte....."
+Vero una cosa tu tenias que juntarte con hernan para ver el tema de como llevarnos al dashboard los resultados de la encuesta de bitlogic ?
+Genial Vero!
+Jajaja
+me compraron el Curso de Procesamiento de lenguaje natural :tada:
+Buenas noticias !!!
+Abrazo.
+"Vale. No te preocupes. 
+Mañana hablamos y me cuentas."
+"Tenemos una reunión con Gonzalo Espert, nos va a explicar como hacer CD/CI"
+Hoy no vamos a tener daily
+Como estas?
+<@U01B5AQPV39> buen día
+Vale. Van a estar presentes.
+Esta tarde necesitariamos saber si desafiando horizontes nos va a ayudar a armar los indicadores del dashboard partiendo de la encuesta de bitlogic 
+"Cuando hay ceremonia de planificación y la de la tarde lo es, casi mejor no meter más reuniones "
+Ya que nos reunimos a la tarde
+Creo que no es necesario
+Hola Buen día Ivan
+"Hola. Buen día.
+¿Hoy supongo la daily la tenemos?"
+jajaja
+Total el dolor de panza dura un día o 2
+Claro
+"no importa, no rechazamos las invitaciones, cierto <@U01BYMTTXCH>??"
+Esta el mar demasiado lejos
+Jajaja
+Un gohan para mi
+Gracias por tanto Jose
+Jajajajja
+No me gusta el sushi de aqui
+Que graaande
+Jajaja
+<@U01BDB84630> nos invitas a comer Sushi ????? :clap::clap::clap:
+"Gracias. Ya les escribí, espero se una alguien."
+<https://drive.google.com/drive/u/1/folders/1ghXs77TOlmFgjsS9RRlHAyd5Fm2vXkKD>
+Cuidese no mas
+hola buenos días ! ok :wink:
+No pasa nada!
+Dale Ivan! Buen día!
+"Hola. Muy buenos días.
+No podré estar hoy en la daily, estaré en carretera.
+
+El jueves sería la reunión con Desafiando Horizontes."
+Jajajajaja
+"Si pueden por hoy cerrar este slack asi no les notifica, seria bueno.... asi puedo terminar de probar algo... gracias, y disculpen"
+jaja puede ser... les prometo que no me queda mucho
+"Vero, te vas a tener que plantear otro modo de log :)"
+Vengo avanzando ahi
+Pero ya tengo en vista algo para eso
+Nunca me mando las cosas
+No
+Necesitas que este unificado para poder elegir a quien le tiras la encuesta
+Demasiadas cosas
+:printer:
+Pero eso no lo habiamos visto ya ?
+Ya se lo dije
+Ahora le escribo de nuevo
+No
+Te paso Esteban la info?
+Para que no sean sistemas distintos
+Y trabajar con permisos
+Unificar el CRUD de usuarios con el dashboard
+En la daily
+Por otro lado les quiero comentar algo que se me ocurrió
+Ya sale
+Qué bien.
+:tada:
+Éxitos Iván!
+"En 12 min tenemos la daily, les cuento"
+Hola chicos. No hace falta
+Como estas jose?
+<@U01B5AQPV39> necesitas que estemos en la reunion?
+Buen dia chicos
+Buenas!
+igualemnte !
+Buen finde!
+felicitaciones <@U01BYMTTXCH>
+Gracias Vero!
+esta muy linda !
+Jajajaja
+Tenemos que definir una imagen de fondo sino me hace mal a la vista y me estreso
+:+1:
+Si lo tiene que me lo mande al mail
+Gracias
+Dale
+"Estoy con él en una reunión, le pregunto"
+Esteban Te paso las mejoras sobre el Crud ??
+<@U01BDB84630>
+jaja
+Estamos adelante
+"Tiene más acento que ustedes, al menos para mi"
+No tienen landing
+jajaja
+Muy Argentina esa chica
+Ella es su compi
+Van muy de la mano con UX
+El jerarquizado me gusta
+Muy bueno Ivan
+"<https://us02web.zoom.us/rec/play/KqgfiI6gc5s2brkQkTO177W529bc1ZxNtRiIgYlFvRVHnbd4872JxtolbOYkrkuJ41e8vevyLuAE5jvO.bCavQxliWkC7_vl8?startTime=1603204222000&amp;_x_zm_rtaid=RogmfLXfRu2X2NhJNSEkTA.1603265638387.d7e6ae5bfeb930d9f5dedf7d69a3167c&amp;_x_zm_rhtaid=882>
+
+Del min 40 al 57"
+<@U01BXC8LK27>
+Hola
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> se ha unido al canal
+En 3 me junto con veronica
+Y poder cambiar logo
+Asi que deberiamos tener lo hiden fields para guardar la identidad de las encuestas
+Ya somos professional 
+Genial
+Esta listo el upgrade en typeform 
+Nos juntemos luego y vemos como va
+Bueno ahi tenemos el contenedorcito bitnami
+Donde esta la web
+Quiero desplegarlo en aws
+Eso hay que verlo
+Donde despliegas ?
+Muy bien 
+Oleoleole
+Tenemos integración continua
+Ya esta lo de github actions Joseeeeeee
+Ahora lo veo!
+Buenas
+Buenas!
+"<https://imfd.cl/beto-la-red-neuronal-que-podria-ser-utilizada-durante-el-proximo-proceso-constituyente/>
+
+Buenos días. Envié a sus correo algo que nos compartió Jose, para un primer saque, puede servir según yo."
+Hable con dos personas de dos empresas distintas y usan este sistema de comunicación. Me dicen que en sus anteriores puestos lo usaban. A tené en cuenta que ambas personas trabajan en empresas de más de 1.500 empleados.
+<https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html|https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html>
+Diaculpen
+Entra nomas!
+Recien me libero
+Dale
+Pue ser ?
+Denme 5 y me sumo
+Dale! no hay drama
+"Nos adelantaron una reunión. No podré estar en la daily.
+
+<@U01BYMTTXCH> te paso lo de Google.
+
+Una disculpa."
+"Hola a todos.
+
+Buen día. Qué bien con el avance."
+Biennnnn
+felcitaciones por el avance !!
+huy Lean se te voló el tiempo.
+Asique voy a seguir ahora
+Y cuando me di cuenta de la hora era la 1 de la mañana
+Yo me quede viendo algunos tutoriales para ver de dejar el actions de github funcionando
+Ayer con Pau estuvimos avanzando pero no llegamos a completarlo
+Buen día
+"Comparto el enlace de la sesión de hoy, por si alguien se quiere sumar.
+Va sobre ""Negocio""
+
+<http://bit.ly/ISDIStart2020>"
+Yo igual
+yo puedo por la tarde
+Dale
+Les armo canal
+Chicos cuando nos juntamos con paula que nos de un acelerón de cd/CI ?
+me creó una carpeta por cada canal publico y dentró están los archivos .JSON de las conversaciones
+movimiento*
+Entra a dailys que es donde hay más moviento
+aca los tengo !
+Pasemos a asumir que eatas en un canal donde te han invitado
+De todos modos vero no te mates
+me generó ahora un token de desgarga y estoy en eso...
+"no, primero intenté manual para saber si funcionaba el permiso que me dió ayer iván"
+O manual?
+Lo hiciste desde el bot?
+Qué bien
+Bieeeeen
+yo acabo de exportar desde slack el historial completo de los canales publicos que tenemos acá....
+Muy bueno Vero!
+Si
+si
+Hay una versión de prueba gratuita
+"asi que si el administrador puede elegir que el bot no se una al canal donde quiere compartir información sensible de la empresa, como fórmulas y esas cosas"
+"De todos modos me parece que funciona igual que los bots que veníamos viendo.... paa que exporte, tiene que ser agregado al canal... ya sea publico o privado"
+¿Pagando por empresas que nos conectemos o anual X empresas?
+<https://www.backupery.com/products/backupery-for-slack/>
+"Esta se llama Backupery y permite descargar todo el historial de slack, ya sea de canales publicos o privados... también es paga... por ahora veo que para obtener las conversaciones de canales privados o chat de a pares las opciones son pagas...."
+Buenas ! esta es otra App como la que les pasé ayer de Flatly....
+:hugging_face:
+Muy bueno Vero!
+Cool
+<https://towardsdatascience.com/how-we-scraped-data-off-a-slack-group-2b5181ba51bb>
+"Esta nota la habia enocntrado hace unos días... no es un tutorial, pero si  presenta un listado de ideas de datos que se pueden extraer de slack con los bots. no son conversaciones pero también nos pueden ser de utilidad extraer estos parámetros, como para darle un contexto a las conversaciones"
+<https://medium.com/the-flatly-blog>
+les paso el blog de ellos
+ahhh si
+Jobs files ...
+Igual habría que ver como definen los limites 
+si no es para hipertensos la cosa jajaja
+Pero es salado si o
+Sis is
+mas abajo está para acceder a un periodo gratuito de prueba.... ellos extraen la info y te la dan en formatos planos como excel
+Myer briggs esta buenísimo 
+Aho regreso
+Se me murio el ipad
+Lindo
+<https://www.crystalknows.com/>
+<https://docs.google.com/presentation/d/18VibL-Qzj7L0b8ByU_xk3k-MiUIoHjcbY_shnyUxtTA/edit#slide=id.g8656a07ded_1_1144>
+en esa opcion se agrega el bot al canal
+Para la sala+
+<http://bit.ly/TeamPulse1>
+"<https://drive.google.com/drive/folders/1uUnOGkgPj1a5qDzl9AYNQ9acFnDAxcIU>
+
+Aquí pueden encontrar las presentaciones"
+Panel 2 de ISDI-TECH
+Entrando
+El ponente de hoy
+Computer Science :+1:
+Oka
+"Así es. No hace falta que estén toda, puede ser los primero 30 min y la última hora"
+es a las 14.00?
+Gracias
+"Les comparto el enlace
+*<http://bit.ly/ISDIStart2020>*"
+Si pueden estar sería lo ideal.
+Hola. Han cambiado la sesión de hoy y será de *Tech.* 
+toca el liink que dice tempulse que compartieron en el chat
+No te redirecciona
+<http://bit.ly/TeamPulse1|bit.ly/TeamPulse1>
+?
+Como hago para ir a la sala
+van a la sala?
+🥳
+"si, coincido"
+Jajajajaj
+"Da mucho contenido, por momentos aburrido, por momentos muy activo"
+tenemos que hacer un pacto jajaja
+Esta muy bueno
+"Duerme un poco, más dinámico sería mejor."
+"¿Habéis definido un Product Backlog?
+¿Utilizáis un gestor de proyectos?
+¿Las reuniones finalizan en el tiempo acordado?
+¿Cada una de las tareas a acometer tiene definido un responsable, un tiempo de entrega y un ""Definition of Done""?
+¿Habéis definido, por escrito, unos acuerdos de trabajo?"
+"Es muy similar, lo que veo es que aquí nos van a meter más en cintura. Lo cual es muy bueno"
+Buenísimo.
+Okas
+"Oka, entrando!"
+"Si - ""Teampulse - NOMBRE"""
+Teampulse - Nombre?
+Mismo formato?
+Es interesante lo que están diciendo. Así que si se quieren unir.
+<https://eu.bbcollab.com/guest/e861fc69f24b488288564fd12c5ba98e>
+"Genial, yo me sumo :wink:"
+"<https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA|https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA>
+
+<@U01BS8YKHS8>
+Aquí el enlace para el 15. Es a las 12:30h de Argentina.
+
+Gracias."
+"Buenísimo Lean, dale cualquier cosa te aviso :slightly_smiling_face:"
+Yo estoy con la API de typeform
+Si necesitas ayuda avisame
+Bien Vero!
+yo encontré una opción que tengo que probar si funciona primero.... apenas logre que funcione les aviso
+"Me parece bien + lo de <@U01BYMTTXCH>
+Se lo envías y le preguntas si quiere que nos juntemos para más detalles."
+O va a arrancar desde 0?
+Preguntale si el tiene algo armado con respecto a eso
+"Hola <@U01B5AQPV39> respecto de lo que pregunta José Martinez.
+1- Tenemos un slackbot que se conecta al slack de Teampulse, este bot corre por el momento en un servidor local (mi compu). El bot utiliza Flask y Slack Event API.
+2- En este momento estoy en la investigación de lograr que el bot recopile las conversaciones. por ahora no está implementada esa funcionalidad. Por el momento las conversaciones se pueden extraer manualmente desde slack con el usuario Administrador de la cuenta"
+Ya ha preguntado Jose sus preguntas.
+<@U01BDB84630>
+<https://www.typeform.com/connect/c/email-marketing/>
+<https://help.sendinblue.com/hc/es/articles/209582045-Typeform-integre-sus-nuevos-contactos>
+"<@U01BYMTTXCH> <https://es.sendinblue.com/>
+Mira esto"
+<@U01BYMTTXCH> se ha unido al canal
+<@U01BDB84630> se ha unido al canal
+<@U01BS8YKHS8> se ha unido al canal
+<@U01B5AQPV39> se ha unido al canal
+en la presentacion tenias solo fecha hora ... cambiaste algo ?
+:clap:
+"una cosa lean, en la captura del scheduler tienes una vista de un calendario"
+ole ole
+muy bien chicos
+:slightly_smiling_face:
+Te llego otro mail Ivan?
+Ahi Gonzalo nos dijo que si vamos a usar el stack mean-1 que esta en lightsail
+Jose
+Lo hago
+Es parte de las pruebas
+Bien
+Si
+Ivan te llego un mail?
+"<@U01BDB84630> me compartes el enlace, ya hablé con Alfredo."
+Sigan con eso.
+Hola Vero. No te preocupes.
+"Hola buenos días ! todo, bien, a las 11.30 tenemos seteada una reunión con Gonzalo que nos va a guiar en el despliegue. la semana pasada nos contó todos los pasos, pero hoy nos va a acompañar a hacerlo"
+Por favor envíame el enlace. Gracias.
+Y seguramente vamos a hablar cosas internas
+Por ahi hay que corregir algo de esta
+Te invitamos a una demo oficial
+No es la idea
+Estaré de oyente.
+Invítame por favor.
+Es interna bitlogic
+Me envías por favor la invitación.
+A nuestras 14
+<@U01BYMTTXCH> y <@U01BS8YKHS8> como van con la demo ?
+¿La demo interna a qué hora la tienen?
+Creo que no sirve 
+Entonces hoy no habrá daily?
+"Vale, Ahora lo miro y también les digo a DH"
+Ahi voy a modificar el slides para cubrir bien el statua
+Cuando les venga bien
+Qué día?
+Nos juntemos esta semana para cerrar diagramas de flujo y definir el servicio a partir del lanzamiento 
+No se como vienen loa chicos de tiempo 
+O cómo podemos organizarnos para el lanzamiento del MVP
+Hoy tenemos demo interna 
+"Hola. Buen día.
+
+Vi que hubo actualización en la Daily, habrá hoy?"
+Dale
+<@U01B5AZNSB1> nos ayudas con esto por favor.
+"Add all of these records to GoDaddy's DNS section.
+TYPE*HOSTPOINTS TO*CNAMEurl6585.teampulse.ioCopy
+sendgrid.netCopy
+CNAME19425265.teampulse.ioCopy
+sendgrid.netCopy
+CNAMEem7776.teampulse.ioCopy
+u19425265.wl016.sendgrid.netCopy
+CNAMEs1._domainkey.teampulse.ioCopy
+s1.domainkey.u19425265.wl016.sendgrid.netCopy
+CNAMEs2._domainkey.teampulse.ioCopy
+<http://s2.domainkey.u19425265.wl016.sendgrid.net|s2.domainkey.u19425265.wl016.sendgrid.net>"
+Hay que agregarlos a godady
+Dale
+:+1:
+"Vale. Entonces la dejamos para el lunes,
+Cualquier cosa por aquí ando."
+opino como Lean
+buenas !
+"Como ustedes digan, solo díganme para conectarme o no."
+"Buenas, me parece que hacerla hoy no vale la pena!"
+Buen día. ¿Hoy habrá daily?
+Estaba en reunión
+Te envié un whats
+<@U01B5AQPV39> sin el acceso a sendgrid no puedo hacer la integración con el envio de mails
+"Habíamos quedado en eso, disculpen si entendí otra cosa y no me sume"
+Pensé que no había
+"si, si están me sumo"
+ahh yo entendí que no había
+Se suman a la daily?
+"<@U01B5AQPV39> ha cambiado el nombre del canal de ""dailys"" a ""daily"""
+Gracias!
+"Vero y Lean, qué buen avance, bien bajado todo."
+ahh buena observación
+Seguro fui yo ese
+Fijate que tienen el mismo patron de usar el signo !
+en rojo marqué cosas que me llamaron la atención porque no condicen... le tengo más confianza a la librería en inglés
+"con el texto en español (verde) obtengo las nuevas columnas... lo que me dá es un porcentaje de negatividad, neutralidad y positividad de cada mensaje y dsp toma una decisión y lo clasifica en uno de los 3... lo guardé en la columna CLASS"
+Excelente Vero!
+con el texto en inglés (celeste) obtengo los indices que ya habiamos visto
+he aqui los resultados
+"Segundo: probé la librería nueva que trabaja con textos en español, asi no tendríamos la necesidad de traducir..."
+"Primero: después de mucha búsqueda, vi que solo hay 6 librerías de traducción que son las más usadas y recomendadas... la mayoría se basan por detrás en la API de google translate.... me di con que me surge el problema de que hacemos demasiadas request... pero pero pero.... logré darle la vuelta de rosca y ahora ya podemos traducir, seteándole un tiempo de sleep entre cada request."
+En cuanto a lo del análisis de polaridad... a ver que opinan
+Sino que a todos
+Quedamos en que por ahora no se va a seleccionar a quien enviar
+"No, como todas las entrevistas se modifican segun quien sea el que responde"
+Hermoso
+Y mandarla jajajaj
+Ahora viene la fiesta elegir a quien se la mandas
+yo tengo algo que comentarles.... respecto del análisis de polaridad
+me gusta mucho !! felicitaciones !
+Visual lista
+Sprint que viene?
+Eso nos ayudaría muchisimo
+Si
+<@U01BYMTTXCH> 
+De ahi los deberiamos poblar en el mongo
+"Buenas ! en la encuesta actual,  tenemos los datos que marque en negrita.... el resto de los datos no se preguntaron asi que no los tenemos"
+"*ID del empleado:* tenemos un número generado al responder la encuesta
+Nombre /
+Apellido /
+Fecha de Nacimiento /
+*Fecha de ingreso a la cía:* Tenemos el dato de la antigüedad
+Gerencia /
+*Subgcia, sector o área:* Tenemos el dato del equipo de trabajo
+Género /
+*Lidera equipo (s/n):* Tenemos el dato del puesto
+Fecha desde la que lidera equipo"
+Un saludo.
+"ID del empleado / Nombre / Apellido / Fecha de Nacimiento / Fecha de ingreso a la cía / Gerencia / Subgcia, sector o área / Género / Lidera equipo (s/n) / Fecha desde la que lidera equipo
+
+Estos datos nos los podría pasar Vero de RRHH de Bitlogic y que considera DH que son buenos a la hora de las encuestas.
+Con ellos podríamos cruzar información y tener la data sin sesgos.
+Si ven uno que no este y sea conveniente me lo dicen para pedirlo y agregarlo."
+"Ivan, si querés podes compartir esta imagen... ami no me deja"
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09>
+Gracias
+Docker
+"Anaconda, Python, Jupyter Notebook, GitHub, Docker"
+"React js, Express, Node js, Mongo DB, Google sheets, git, aws"
+"Así como las que en un futuro ven necesarias.
+
+Gracias"
+Si
+Hola. Ya me lo han pasado pero no lo encuentro. Me comparten las tecnologías que utilizamos por favor.
+buenos días Lean !
+Hoy voy a estar con el proceso de envio de encuestas
+"Buen día, como estan?"
+Me parece mejor la opción 3
+"Una pregunta. Bitlogic nos pasará la información de los colaboradores como, nombre, fecha de ingreso, si lleva a personas, área y dos más que ahora no recuerdo.
+
+Mi pregunta es, ¿una vez que tengamos esta información tendríamos un registro único durante todo el tiempo que responde una persona de todas las preguntas?
+Me refiero a la trazabilidad, saber que siempre nos ha respondido JUAN PEREZ"
+<https://github.com/finiteautomata/pysentimiento/>
+"La opción 3 puede ser. Cómo se llama la librería, estoy en el Clúster de IA y puede ver si desde ahí nos puedan apoyar."
+Seeeeee
+para whatsapp esta hermoso
+y en voz tienen mucho
+sms ...
+TWILIO ESTA HERMOSO del lado de chatbot via whatsapp y demas
+"Ya me di de alta, ahora hay que esperar a que verifiquen que estamos en el programa de ISDI.
+Pero bien, en cuanto tenga la información te la comparto."
+Pero lo hago hoy.
+Doy de alta hoy la cuenta. Habrá que escribir a los de Twilio para que nos activen la promo. Desconozco el tienpo que pueden tardar.
+Con un godady y chau
+Si
+Igual tenemos que ver como levantar el mongo
+Si
+que suerte tener un buen mentor en estas cosas :slightly_smiling_face:
+AHI LE APUNTAMOS UN SUBdomain y listo no +
+Un crack Gonzalo
+A que hora estan esas reuniones ivan?
+<https://erudit.ai/connectors>
+"Ivan, te pido que generes una cuenta en <http://palabra.io|palabra.io> si puede ser"
+Vas a volver a ver en hd
+Sin probelama
+"Buenas ! les quería avisar que voy a necesitar salir un rato a eso de las 17.00, porque recién me avisaron que ya está listo mi otro par de lentes... asi que me llego a la óptica a buscarlos y vuelvo...."
+Gracias Vero
+Hasta la tarde
+Los dejo
+Tengo una mala salud de hierro
+A mi menos
+El tema es que la resaca no dura un día
+Y a partir de aho ya no tengo muchos planes concretos
+A los 100 pasare hasta los 120 recueparandome del cumpleaños 
+Y asi sicesivamente
+Y luego a los 60 como lo hacía a los 40 osea como a los 20
+"jaja un mix, 25"
+Jajajaj
+Ahora tocA como a los 30 que es mas peligroso 
+"jajaja perjudicado.
+No te preocupes.
+Festeja como de 20"
+50 no se cumplen todos los días
+Esta perfecto
+Cumplo 50
+Chicos antes de la planning mañana es mi cumple asi que voy a estar muy poco presente mañana y si hay celebración probablemente pasado este un poco perjudicado
+genial !
+En la Daily de hoy se suma una scrummaster que nos va a ayudar con el ultimo sprint
+Ahora tenemos daily ?
+es para las 13.15 nuestras
+<https://meet.google.com/yii-hjrk-vhp?authuser=1>
+no me deja agregarte.... porque lo creó ivan.... pero este es el enlace
+Así discutimos la historia
+Súmenme a lo del bot plis
+ok Ivan ! :wink:
+"Hola. Buen día. Hoy no podré estar en la daily. Luego me pongo al día.
+
+<@U01BS8YKHS8> hablamos a la hora que quedamos para el texto del bot.
+
+Buen viernes."
+ok :wink:
+No tendremos reunión tampoco con el de ISDI. Les digo de una fecha cuando sepa algo.
+Vale
+Pero vamos a usar el tiempo para cerrar bien el ultimo sprint
+No
+"Ahhh ok, sucedió algo ?"
+Vamos a tener que suspender la grommino
+Me acorde d lo que habíamos hablado
+No pude hablar
+Se ve muy lindo Lean ! felicitaciones !
+Pudiste hablar con Esteban?
+genial! después si te parece que cambiemos los colores de los otros gráficos avisame nomás
+Va bien ese color. Me gusta.
+uso la palabra 'empleado' en los gráficos?? o quieren otra palabra ?
+Vengo avanzando ahi
+Demasiadas cosas
+Ya se lo dije
+Ahora le escribo de nuevo
+No
+Y trabajar con permisos
+Qué bien.
+:tada:
+Éxitos Iván!
+"En 12 min tenemos la daily, les cuento"
+Hola chicos. No hace falta
+Como estas jose?
+<@U01B5AQPV39> necesitas que estemos en la reunion?
+Buen dia chicos
+Buenas!
+igualemnte !
+Buen finde!
+felicitaciones <@U01BYMTTXCH>
+Gracias Vero!
+esta muy linda !
+Jajajaja
+Tenemos que definir una imagen de fondo sino me hace mal a la vista y me estreso
+:+1:
+Si lo tiene que me lo mande al mail
+"Estoy con él en una reunión, le pregunto"
+jaja
+Estamos adelante
+"Tiene más acento que ustedes, al menos para mi"
+No tienen landing
+jajaja
+Muy Argentina esa chica
+Muy bueno Ivan
+"<https://us02web.zoom.us/rec/play/KqgfiI6gc5s2brkQkTO177W529bc1ZxNtRiIgYlFvRVHnbd4872JxtolbOYkrkuJ41e8vevyLuAE5jvO.bCavQxliWkC7_vl8?startTime=1603204222000&amp;_x_zm_rtaid=RogmfLXfRu2X2NhJNSEkTA.1603265638387.d7e6ae5bfeb930d9f5dedf7d69a3167c&amp;_x_zm_rhtaid=882>
+
+Del min 40 al 57"
+<@U01BXC8LK27>
+Hola
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> se ha unido al canal
+En 3 me junto con veronica
+Y poder cambiar logo
+Asi que deberiamos tener lo hiden fields para guardar la identidad de las encuestas
+Ya somos professional 
+Genial
+Esta listo el upgrade en typeform 
+Nos juntemos luego y vemos como va
+Bueno ahi tenemos el contenedorcito bitnami
+Donde esta la web
+Quiero desplegarlo en aws
+Eso hay que verlo
+Donde despliegas ?
+Muy bien 
+Oleoleole
+Tenemos integración continua
+Ya esta lo de github actions Joseeeeeee
+Ahora lo veo!
+Buenas
+Buenas!
+"<https://imfd.cl/beto-la-red-neuronal-que-podria-ser-utilizada-durante-el-proximo-proceso-constituyente/>
+
+Buenos días. Envié a sus correo algo que nos compartió Jose, para un primer saque, puede servir según yo."
+Hable con dos personas de dos empresas distintas y usan este sistema de comunicación. Me dicen que en sus anteriores puestos lo usaban. A tené en cuenta que ambas personas trabajan en empresas de más de 1.500 empleados.
+<https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html|https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html>
+Diaculpen
+Entra nomas!
+Recien me libero
+Dale
+Pue ser ?
+Denme 5 y me sumo
+Dale! no hay drama
+"Nos adelantaron una reunión. No podré estar en la daily.
+
+<@U01BYMTTXCH> te paso lo de Google.
+
+Una disculpa."
+"Hola a todos.
+
+Buen día. Qué bien con el avance."
+Biennnnn
+felcitaciones por el avance !!
+huy Lean se te voló el tiempo.
+Asique voy a seguir ahora
+Y cuando me di cuenta de la hora era la 1 de la mañana
+Yo me quede viendo algunos tutoriales para ver de dejar el actions de github funcionando
+Ayer con Pau estuvimos avanzando pero no llegamos a completarlo
+Buen día
+"Comparto el enlace de la sesión de hoy, por si alguien se quiere sumar.
+Va sobre ""Negocio""
+
+<http://bit.ly/ISDIStart2020>"
+Yo igual
+yo puedo por la tarde
+Dale
+Les armo canal
+Chicos cuando nos juntamos con paula que nos de un acelerón de cd/CI ?
+me creó una carpeta por cada canal publico y dentró están los archivos .JSON de las conversaciones
+movimiento*
+Entra a dailys que es donde hay más moviento
+aca los tengo !
+Pasemos a asumir que eatas en un canal donde te han invitado
+De todos modos vero no te mates
+me generó ahora un token de desgarga y estoy en eso...
+"no, primero intenté manual para saber si funcionaba el permiso que me dió ayer iván"
+O manual?
+Lo hiciste desde el bot?
+Qué bien
+Bieeeeen
+yo acabo de exportar desde slack el historial completo de los canales publicos que tenemos acá....
+Muy bueno Vero!
+Si
+si
+Hay una versión de prueba gratuita
+"asi que si el administrador puede elegir que el bot no se una al canal donde quiere compartir información sensible de la empresa, como fórmulas y esas cosas"
+"De todos modos me parece que funciona igual que los bots que veníamos viendo.... paa que exporte, tiene que ser agregado al canal... ya sea publico o privado"
+¿Pagando por empresas que nos conectemos o anual X empresas?
+<https://www.backupery.com/products/backupery-for-slack/>
+"Esta se llama Backupery y permite descargar todo el historial de slack, ya sea de canales publicos o privados... también es paga... por ahora veo que para obtener las conversaciones de canales privados o chat de a pares las opciones son pagas...."
+Buenas ! esta es otra App como la que les pasé ayer de Flatly....
+:hugging_face:
+Muy bueno Vero!
+Cool
+<https://towardsdatascience.com/how-we-scraped-data-off-a-slack-group-2b5181ba51bb>
+"Esta nota la habia enocntrado hace unos días... no es un tutorial, pero si  presenta un listado de ideas de datos que se pueden extraer de slack con los bots. no son conversaciones pero también nos pueden ser de utilidad extraer estos parámetros, como para darle un contexto a las conversaciones"
+<https://medium.com/the-flatly-blog>
+les paso el blog de ellos
+ahhh si
+Jobs files ...
+Igual habría que ver como definen los limites 
+si no es para hipertensos la cosa jajaja
+Pero es salado si o
+Sis is
+mas abajo está para acceder a un periodo gratuito de prueba.... ellos extraen la info y te la dan en formatos planos como excel
+Myer briggs esta buenísimo 
+Aho regreso
+Se me murio el ipad
+Lindo
+<https://www.crystalknows.com/>
+<https://docs.google.com/presentation/d/18VibL-Qzj7L0b8ByU_xk3k-MiUIoHjcbY_shnyUxtTA/edit#slide=id.g8656a07ded_1_1144>
+en esa opcion se agrega el bot al canal
+Para la sala+
+<http://bit.ly/TeamPulse1>
+"<https://drive.google.com/drive/folders/1uUnOGkgPj1a5qDzl9AYNQ9acFnDAxcIU>
+
+Aquí pueden encontrar las presentaciones"
+Panel 2 de ISDI-TECH
+Entrando
+El ponente de hoy
+Computer Science :+1:
+Oka
+"Así es. No hace falta que estén toda, puede ser los primero 30 min y la última hora"
+es a las 14.00?
+Gracias
+"Les comparto el enlace
+*<http://bit.ly/ISDIStart2020>*"
+Si pueden estar sería lo ideal.
+Hola. Han cambiado la sesión de hoy y será de *Tech.* 
+toca el liink que dice tempulse que compartieron en el chat
+No te redirecciona
+<http://bit.ly/TeamPulse1|bit.ly/TeamPulse1>
+?
+Como hago para ir a la sala
+van a la sala?
+🥳
+"si, coincido"
+Jajajajaj
+"Da mucho contenido, por momentos aburrido, por momentos muy activo"
+tenemos que hacer un pacto jajaja
+Esta muy bueno
+"Duerme un poco, más dinámico sería mejor."
+"¿Habéis definido un Product Backlog?
+¿Utilizáis un gestor de proyectos?
+¿Las reuniones finalizan en el tiempo acordado?
+¿Cada una de las tareas a acometer tiene definido un responsable, un tiempo de entrega y un ""Definition of Done""?
+¿Habéis definido, por escrito, unos acuerdos de trabajo?"
+"Es muy similar, lo que veo es que aquí nos van a meter más en cintura. Lo cual es muy bueno"
+Buenísimo.
+Okas
+"Oka, entrando!"
+"Si - ""Teampulse - NOMBRE"""
+Teampulse - Nombre?
+Mismo formato?
+Es interesante lo que están diciendo. Así que si se quieren unir.
+<https://eu.bbcollab.com/guest/e861fc69f24b488288564fd12c5ba98e>
+"Genial, yo me sumo :wink:"
+"<https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA|https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA>
+
+<@U01BS8YKHS8>
+Aquí el enlace para el 15. Es a las 12:30h de Argentina.
+
+Gracias."
+"Buenísimo Lean, dale cualquier cosa te aviso :slightly_smiling_face:"
+Yo estoy con la API de typeform
+Si necesitas ayuda avisame
+Bien Vero!
+yo encontré una opción que tengo que probar si funciona primero.... apenas logre que funcione les aviso
+"Me parece bien + lo de <@U01BYMTTXCH>
+Se lo envías y le preguntas si quiere que nos juntemos para más detalles."
+O va a arrancar desde 0?
+Preguntale si el tiene algo armado con respecto a eso
+"Hola <@U01B5AQPV39> respecto de lo que pregunta José Martinez.
+1- Tenemos un slackbot que se conecta al slack de Teampulse, este bot corre por el momento en un servidor local (mi compu). El bot utiliza Flask y Slack Event API.
+2- En este momento estoy en la investigación de lograr que el bot recopile las conversaciones. por ahora no está implementada esa funcionalidad. Por el momento las conversaciones se pueden extraer manualmente desde slack con el usuario Administrador de la cuenta"
+Ya ha preguntado Jose sus preguntas.
+<@U01BDB84630>
+<https://www.typeform.com/connect/c/email-marketing/>
+<https://help.sendinblue.com/hc/es/articles/209582045-Typeform-integre-sus-nuevos-contactos>
+"<@U01BYMTTXCH> <https://es.sendinblue.com/>
+Mira esto"
+<@U01BYMTTXCH> se ha unido al canal
+<@U01BDB84630> se ha unido al canal
+<@U01BS8YKHS8> se ha unido al canal
+<@U01B5AQPV39> se ha unido al canal
+"una cosa lean, en la captura del scheduler tienes una vista de un calendario"
+La directora es laura ?
+"*Como opciones:*
+*1-* podemos ver la posibilidad de tener una cuenta para poder pegarle a la api accediendo con tokens seguramente... no se si eso tendrá un costo... supongo que si....
+*2-* puedo buscar otra forma de traducir... ya había probado T*extBlob* pero me había pasado lo mismo por eso me cambie a *googletrans*
+*3-* la directora de la diplomatura me compartió una librería para análisis de texto en español que salió la semana pasada, es super nueva... es desarrollada por unos amigos de ella en España.... asi que al menos tenemos esa otra opción."
+"resulta que llegué al limite de traducciones desde una IP particular... lo que no se es si tengo que esperar para volver a traducir, o puedo tener la IP temporalmente bloqueada por la API de google...."
+Buenas !!! ya se que sucede con las traducciones....
+entones antes que palabra valdria usar sendgrid
+"Nos va ayudar bastante, Vamos a tener esto JL:
+
+12 months of email credit worth ($339.95/month) which gives you access to the Pro 100 Email API &amp; Advanced 50 plans.
+A one-time $100 “getting-started” Twilio credit.
+Office hours &amp; mentoring from Twilio team of experts.
+6 months free access to <http://Loader.io|Loader.io> to stress test web apps &amp; APIs."
+BIEN AHI
+Esta subido
+<http://54.167.4.192/>
+<@U01B5AQPV39> generaste la cuenta del twilio?
+Si
+creo que la calve ahora es el excheduler
+Jajajaja
+Ya se organizan con Hernán y Victoria
+"Bueno, vuelvo a tener PC"
+Vegano
+Es la razon de hacer un asado
+Salvo que comas algo grasoso
+y... les parece que este color se asemeja a los de teampulse ??? no puedo editar justo el mismo color... pero busque uno similar
+Jajajaja
+ami me gusta mas empleado.... jaja
+Empleado o colaborador
+Diga
+Les voy compartiendo un informe del proceso de exploracion y limpieza de la base de datos de la encuesta
+:printer:
+Te paso Esteban la info?
+Unificar el CRUD de usuarios con el dashboard
+En la daily
+Por otro lado les quiero comentar algo que se me ocurrió
+Gracias
+Dale
+Esteban Te paso las mejoras sobre el Crud ??
+<@U01BDB84630>
+Ella es su compi
+Van muy de la mano con UX
+El jerarquizado me gusta
+igual whatsapp oficial te acaba costando una cantidad interesante de plata
+<@U01B5AQPV39> tenes algo de la visual de el envio de encuestas?
+jajaja
+jaja
+:wink:
+Jajaja
+Ahi te levantas intacto al otro día
+pregunta...
+"ok, recien me pongo con las encuentas, porque estaba trabajando la base de datos de slack"
+Pero eso no lo habiamos visto ya ?
+Para que no sean sistemas distintos
+Ya sale
+Puede ser un canal para el bot
+Si
+dejalo para lo ultimo
+Lo de GTM lo voy a poder hacer una vez que este deployado el sistema
+Si
+Y nos dan créditos. Importante aclarar.
+Es bastante potente
+Ivan estuvo haciendo un research
+<@U01BDB84630> <https://www.twilio.com/> Vamos  a usar esta aplicacion en lugar de <http://palabra.io|palabra.io>
+No me llego
+No pasa nada Vero!
+ya me conecto
+a partir de acá entramos al análisis y visualización de los datos
+Así mañana en mi mañana lo miro.
+Por mi bien. <@U01BS8YKHS8> pásame hoy lo que tengas para darle una vuelta también.
+mejor mañana si pueden. asi les muestro con qué avance hoy
+<@U01B5AQPV39> esto es medio crítico teniendo en cuenta cuando sacaron la encuesta. Puedes ayudar a que suceda asap ?
+Dime si la tienes
+Enviada.
+No me llego
+Avisa nomas
+Voy en carretera ahora.
+Si. Mañana lo podemos ver u hoy más tarde.
+Eso está bien. Pero lo primero es que tenemos al primer cliente (que ademas es nuestro pagador) que quiere poder empezar a usar sus datos en nuestro dash.
+Hola Leandro. Lo miro.
+Entregables para Bitlogic -Encuestas de Bienestar
+"ok, ya me puse con esto josé... estoy haciendo la limpieza primero..."
+"Seria muy deseable. Quieres que nos juntemos con el dashboard, los datos y <@U01BH0Q8MHB> y que lo analicemos con amor ? "
+si si.... vos preferís que yo me valla poniendo a analizar las encuestas de bitlogic ?
+"yo puedo ponerme con eso e ir viendo que le pregunto a las respuestas obtenidas y que información puedo extraer..... pero antes de graficar a tontas y a locas como se diría, le pedí a Hernan que me guiara con preguntas, de que tipo de info les seria util recolectar"
+"si si, es para los datos que ya tenemos"
+Es una petición reiterada de veronica
+Pero el tema es ver como volcamos los resultados que ya tenemos en el dashboard que ya tenemos
+Ok
+"me dijo que cuando las tuviera, me iba a decir esta semana asi me las pasa y yo con esos lineamientos, me puedo guiar para trabajar con los datos de las encuestas"
+también le pedi que me planteara que preguntas quiere responder con los datos  de las encuestas... asi yo a partir de eso trabajo con las respuestas para generar graficos que respondan a esas preguntas
+"si josé.... ya me junté la semana pasada con él... y le plantié que buscara de unir los grupos de indicadores que ellos crearon con las 60 preguntas para ver si las preguntas de bitlogic se alinean a eso, aunque sea en parte....."
+Vero una cosa tu tenias que juntarte con hernan para ver el tema de como llevarnos al dashboard los resultados de la encuesta de bitlogic ?
+Genial Vero!
+Jajaja
+me compraron el Curso de Procesamiento de lenguaje natural :tada:
+Buenas noticias !!!
+Abrazo.
+"Vale. No te preocupes. 
+Mañana hablamos y me cuentas."
+"Tenemos una reunión con Gonzalo Espert, nos va a explicar como hacer CD/CI"
+Hoy no vamos a tener daily
+Como estas?
+<@U01B5AQPV39> buen día
+Creo que no es necesario
+Dale
+<@U01B5AZNSB1> nos ayudas con esto por favor.
+"Add all of these records to GoDaddy's DNS section.
+TYPE*HOSTPOINTS TO*CNAMEurl6585.teampulse.ioCopy
+sendgrid.netCopy
+CNAME19425265.teampulse.ioCopy
+sendgrid.netCopy
+CNAMEem7776.teampulse.ioCopy
+u19425265.wl016.sendgrid.netCopy
+CNAMEs1._domainkey.teampulse.ioCopy
+s1.domainkey.u19425265.wl016.sendgrid.netCopy
+CNAMEs2._domainkey.teampulse.ioCopy
+<http://s2.domainkey.u19425265.wl016.sendgrid.net|s2.domainkey.u19425265.wl016.sendgrid.net>"
+Hay que agregarlos a godady
+Dale
+:+1:
+"Vale. Entonces la dejamos para el lunes,
+Cualquier cosa por aquí ando."
+opino como Lean
+buenas !
+"Como ustedes digan, solo díganme para conectarme o no."
+"Buenas, me parece que hacerla hoy no vale la pena!"
+Buen día. ¿Hoy habrá daily?
+Estaba en reunión
+Te envié un whats
+<@U01B5AQPV39> sin el acceso a sendgrid no puedo hacer la integración con el envio de mails
+"Habíamos quedado en eso, disculpen si entendí otra cosa y no me sume"
+Pensé que no había
+"si, si están me sumo"
+ahh yo entendí que no había
+Se suman a la daily?
+"<@U01B5AQPV39> ha cambiado el nombre del canal de ""dailys"" a ""daily"""
+Gracias!
+"Vero y Lean, qué buen avance, bien bajado todo."
+ahh buena observación
+Seguro fui yo ese
+Fijate que tienen el mismo patron de usar el signo !
+en rojo marqué cosas que me llamaron la atención porque no condicen... le tengo más confianza a la librería en inglés
+"con el texto en español (verde) obtengo las nuevas columnas... lo que me dá es un porcentaje de negatividad, neutralidad y positividad de cada mensaje y dsp toma una decisión y lo clasifica en uno de los 3... lo guardé en la columna CLASS"
+Excelente Vero!
+con el texto en inglés (celeste) obtengo los indices que ya habiamos visto
+he aqui los resultados
+"Segundo: probé la librería nueva que trabaja con textos en español, asi no tendríamos la necesidad de traducir..."
+"Primero: después de mucha búsqueda, vi que solo hay 6 librerías de traducción que son las más usadas y recomendadas... la mayoría se basan por detrás en la API de google translate.... me di con que me surge el problema de que hacemos demasiadas request... pero pero pero.... logré darle la vuelta de rosca y ahora ya podemos traducir, seteándole un tiempo de sleep entre cada request."
+En cuanto a lo del análisis de polaridad... a ver que opinan
+Sino que a todos
+Quedamos en que por ahora no se va a seleccionar a quien enviar
+"No, como todas las entrevistas se modifican segun quien sea el que responde"
+Hermoso
+Y mandarla jajajaj
+Ahora viene la fiesta elegir a quien se la mandas
+yo tengo algo que comentarles.... respecto del análisis de polaridad
+me gusta mucho !! felicitaciones !
+Visual lista
+Sprint que viene?
+Eso nos ayudaría muchisimo
+Si
+<@U01BYMTTXCH> 
+De ahi los deberiamos poblar en el mongo
+"Buenas ! en la encuesta actual,  tenemos los datos que marque en negrita.... el resto de los datos no se preguntaron asi que no los tenemos"
+"*ID del empleado:* tenemos un número generado al responder la encuesta
+Nombre /
+Apellido /
+Fecha de Nacimiento /
+*Fecha de ingreso a la cía:* Tenemos el dato de la antigüedad
+Gerencia /
+*Subgcia, sector o área:* Tenemos el dato del equipo de trabajo
+Género /
+*Lidera equipo (s/n):* Tenemos el dato del puesto
+Fecha desde la que lidera equipo"
+Un saludo.
+"ID del empleado / Nombre / Apellido / Fecha de Nacimiento / Fecha de ingreso a la cía / Gerencia / Subgcia, sector o área / Género / Lidera equipo (s/n) / Fecha desde la que lidera equipo
+
+Estos datos nos los podría pasar Vero de RRHH de Bitlogic y que considera DH que son buenos a la hora de las encuestas.
+Con ellos podríamos cruzar información y tener la data sin sesgos.
+Si ven uno que no este y sea conveniente me lo dicen para pedirlo y agregarlo."
+"Ivan, si querés podes compartir esta imagen... ami no me deja"
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09>
+Gracias
+Docker
+"Anaconda, Python, Jupyter Notebook, GitHub, Docker"
+"React js, Express, Node js, Mongo DB, Google sheets, git, aws"
+"Así como las que en un futuro ven necesarias.
+
+Gracias"
+Si
+Hola. Ya me lo han pasado pero no lo encuentro. Me comparten las tecnologías que utilizamos por favor.
+buenos días Lean !
+Hoy voy a estar con el proceso de envio de encuestas
+"Buen día, como estan?"
+Me parece mejor la opción 3
+"Una pregunta. Bitlogic nos pasará la información de los colaboradores como, nombre, fecha de ingreso, si lleva a personas, área y dos más que ahora no recuerdo.
+
+Mi pregunta es, ¿una vez que tengamos esta información tendríamos un registro único durante todo el tiempo que responde una persona de todas las preguntas?
+Me refiero a la trazabilidad, saber que siempre nos ha respondido JUAN PEREZ"
+<https://github.com/finiteautomata/pysentimiento/>
+"La opción 3 puede ser. Cómo se llama la librería, estoy en el Clúster de IA y puede ver si desde ahí nos puedan apoyar."
+La directora es laura ?
+"*Como opciones:*
+*1-* podemos ver la posibilidad de tener una cuenta para poder pegarle a la api accediendo con tokens seguramente... no se si eso tendrá un costo... supongo que si....
+*2-* puedo buscar otra forma de traducir... ya había probado T*extBlob* pero me había pasado lo mismo por eso me cambie a *googletrans*
+*3-* la directora de la diplomatura me compartió una librería para análisis de texto en español que salió la semana pasada, es super nueva... es desarrollada por unos amigos de ella en España.... asi que al menos tenemos esa otra opción."
+"resulta que llegué al limite de traducciones desde una IP particular... lo que no se es si tengo que esperar para volver a traducir, o puedo tener la IP temporalmente bloqueada por la API de google...."
+Buenas !!! ya se que sucede con las traducciones....
+entones antes que palabra valdria usar sendgrid
+"Nos va ayudar bastante, Vamos a tener esto JL:
+
+12 months of email credit worth ($339.95/month) which gives you access to the Pro 100 Email API &amp; Advanced 50 plans.
+A one-time $100 “getting-started” Twilio credit.
+Office hours &amp; mentoring from Twilio team of experts.
+6 months free access to <http://Loader.io|Loader.io> to stress test web apps &amp; APIs."
+igual whatsapp oficial te acaba costando una cantidad interesante de plata
+Seeeeee
+para whatsapp esta hermoso
+Puede ser un canal para el bot
+Si
+y en voz tienen mucho
+sms ...
+TWILIO ESTA HERMOSO del lado de chatbot via whatsapp y demas
+"Ya me di de alta, ahora hay que esperar a que verifiquen que estamos en el programa de ISDI.
+Pero bien, en cuanto tenga la información te la comparto."
+Pero lo hago hoy.
+Doy de alta hoy la cuenta. Habrá que escribir a los de Twilio para que nos activen la promo. Desconozco el tienpo que pueden tardar.
+Con un godady y chau
+Si
+Igual tenemos que ver como levantar el mongo
+Si
+que suerte tener un buen mentor en estas cosas :slightly_smiling_face:
+AHI LE APUNTAMOS UN SUBdomain y listo no +
+Un crack Gonzalo
+BIEN AHI
+Esta subido
+<http://54.167.4.192/>
+<@U01B5AQPV39> generaste la cuenta del twilio?
+Si
+creo que la calve ahora es el excheduler
+<@U01B5AQPV39> tenes algo de la visual de el envio de encuestas?
+dejalo para lo ultimo
+Lo de GTM lo voy a poder hacer una vez que este deployado el sistema
+Si
+Y nos dan créditos. Importante aclarar.
+Es bastante potente
+Ivan estuvo haciendo un research
+<@U01BDB84630> <https://www.twilio.com/> Vamos  a usar esta aplicacion en lugar de <http://palabra.io|palabra.io>
+No me llego
+Dime si la tienes
+Enviada.
+No me llego
+"Ivan, te pido que generes una cuenta en <http://palabra.io|palabra.io> si puede ser"
+Jajajaja
+jaja
+Vas a volver a ver en hd
+Ya se organizan con Hernán y Victoria
+:wink:
+Sin probelama
+No pasa nada Vero!
+"Buenas ! les quería avisar que voy a necesitar salir un rato a eso de las 17.00, porque recién me avisaron que ya está listo mi otro par de lentes... asi que me llego a la óptica a buscarlos y vuelvo...."
+"Bueno, vuelvo a tener PC"
+Gracias Vero
+Hasta la tarde
+Los dejo
+genial !
+es para las 13.15 nuestras
+Así discutimos la historia
+No tendremos reunión tampoco con el de ISDI. Les digo de una fecha cuando sepa algo.
+No
+Vamos a tener que suspender la grommino
+No pude hablar
+Pudiste hablar con Esteban?
+ami me gusta mas empleado.... jaja
+Empleado o colaborador
+uso la palabra 'empleado' en los gráficos?? o quieren otra palabra ?
+Diga
+pregunta...
+ya me conecto
+a partir de acá entramos al análisis y visualización de los datos
+Les voy compartiendo un informe del proceso de exploracion y limpieza de la base de datos de la encuesta
+"ok, recien me pongo con las encuentas, porque estaba trabajando la base de datos de slack"
+Así mañana en mi mañana lo miro.
+Por mi bien. <@U01BS8YKHS8> pásame hoy lo que tengas para darle una vuelta también.
+mejor mañana si pueden. asi les muestro con qué avance hoy
+Avisa nomas
+Voy en carretera ahora.
+Si. Mañana lo podemos ver u hoy más tarde.
+<@U01B5AQPV39> esto es medio crítico teniendo en cuenta cuando sacaron la encuesta. Puedes ayudar a que suceda asap ?
+Eso está bien. Pero lo primero es que tenemos al primer cliente (que ademas es nuestro pagador) que quiere poder empezar a usar sus datos en nuestro dash.
+"yo puedo ponerme con eso e ir viendo que le pregunto a las respuestas obtenidas y que información puedo extraer..... pero antes de graficar a tontas y a locas como se diría, le pedí a Hernan que me guiara con preguntas, de que tipo de info les seria util recolectar"
+"me dijo que cuando las tuviera, me iba a decir esta semana asi me las pasa y yo con esos lineamientos, me puedo guiar para trabajar con los datos de las encuestas"
+también le pedi que me planteara que preguntas quiere responder con los datos  de las encuestas... asi yo a partir de eso trabajo con las respuestas para generar graficos que respondan a esas preguntas
+"si josé.... ya me junté la semana pasada con él... y le plantié que buscara de unir los grupos de indicadores que ellos crearon con las 60 preguntas para ver si las preguntas de bitlogic se alinean a eso, aunque sea en parte....."
+"Estoy con él en una reunión, le pregunto"
+"Tiene más acento que ustedes, al menos para mi"
+Muy Argentina esa chica
+Ella es su compi
+Van muy de la mano con UX
+"<https://us02web.zoom.us/rec/play/KqgfiI6gc5s2brkQkTO177W529bc1ZxNtRiIgYlFvRVHnbd4872JxtolbOYkrkuJ41e8vevyLuAE5jvO.bCavQxliWkC7_vl8?startTime=1603204222000&amp;_x_zm_rtaid=RogmfLXfRu2X2NhJNSEkTA.1603265638387.d7e6ae5bfeb930d9f5dedf7d69a3167c&amp;_x_zm_rhtaid=882>
+
+Del min 40 al 57"
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> se ha unido al canal
+En 3 me junto con veronica
+Ya somos professional 
+Genial
+Esta listo el upgrade en typeform 
+Nos juntemos luego y vemos como va
+Bueno ahi tenemos el contenedorcito bitnami
+Donde esta la web
+Quiero desplegarlo en aws
+Eso hay que verlo
+Donde despliegas ?
+Muy bien 
+Oleoleole
+Tenemos integración continua
+Ya esta lo de github actions Joseeeeeee
+Ahora lo veo!
+Buenas
+Buenas!
+"<https://imfd.cl/beto-la-red-neuronal-que-podria-ser-utilizada-durante-el-proximo-proceso-constituyente/>
+
+Buenos días. Envié a sus correo algo que nos compartió Jose, para un primer saque, puede servir según yo."
+Diaculpen
+Dale
+Pue ser ?
+Denme 5 y me sumo
+Dale! no hay drama
+"Nos adelantaron una reunión. No podré estar en la daily.
+
+<@U01BYMTTXCH> te paso lo de Google.
+
+Una disculpa."
+"Hola a todos.
+
+Buen día. Qué bien con el avance."
+Asique voy a seguir ahora
+Y cuando me di cuenta de la hora era la 1 de la mañana
+Yo me quede viendo algunos tutoriales para ver de dejar el actions de github funcionando
+Ayer con Pau estuvimos avanzando pero no llegamos a completarlo
+"Comparto el enlace de la sesión de hoy, por si alguien se quiere sumar.
+Va sobre ""Negocio""
+
+<http://bit.ly/ISDIStart2020>"
+Yo igual
+yo puedo por la tarde
+Dale
+Les armo canal
+Chicos cuando nos juntamos con paula que nos de un acelerón de cd/CI ?
+me creó una carpeta por cada canal publico y dentró están los archivos .JSON de las conversaciones
+movimiento*
+Entra a dailys que es donde hay más moviento
+aca los tengo !
+Pasemos a asumir que eatas en un canal donde te han invitado
+De todos modos vero no te mates
+me generó ahora un token de desgarga y estoy en eso...
+"no, primero intenté manual para saber si funcionaba el permiso que me dió ayer iván"
+O manual?
+Lo hiciste desde el bot?
+Qué bien
+Bieeeeen
+yo acabo de exportar desde slack el historial completo de los canales publicos que tenemos acá....
+Muy bueno Vero!
+Si
+si
+Hay una versión de prueba gratuita
+"asi que si el administrador puede elegir que el bot no se una al canal donde quiere compartir información sensible de la empresa, como fórmulas y esas cosas"
+"De todos modos me parece que funciona igual que los bots que veníamos viendo.... paa que exporte, tiene que ser agregado al canal... ya sea publico o privado"
+¿Pagando por empresas que nos conectemos o anual X empresas?
+<https://www.backupery.com/products/backupery-for-slack/>
+"Esta se llama Backupery y permite descargar todo el historial de slack, ya sea de canales publicos o privados... también es paga... por ahora veo que para obtener las conversaciones de canales privados o chat de a pares las opciones son pagas...."
+Buenas ! esta es otra App como la que les pasé ayer de Flatly....
+:hugging_face:
+Muy bueno Vero!
+Cool
+<https://towardsdatascience.com/how-we-scraped-data-off-a-slack-group-2b5181ba51bb>
+"Esta nota la habia enocntrado hace unos días... no es un tutorial, pero si  presenta un listado de ideas de datos que se pueden extraer de slack con los bots. no son conversaciones pero también nos pueden ser de utilidad extraer estos parámetros, como para darle un contexto a las conversaciones"
+<https://medium.com/the-flatly-blog>
+les paso el blog de ellos
+ahhh si
+Jobs files ...
+Igual habría que ver como definen los limites 
+si no es para hipertensos la cosa jajaja
+Pero es salado si o
+Sis is
+mas abajo está para acceder a un periodo gratuito de prueba.... ellos extraen la info y te la dan en formatos planos como excel
+Myer briggs esta buenísimo 
+Aho regreso
+Se me murio el ipad
+Lindo
+<https://www.crystalknows.com/>
+<https://docs.google.com/presentation/d/18VibL-Qzj7L0b8ByU_xk3k-MiUIoHjcbY_shnyUxtTA/edit#slide=id.g8656a07ded_1_1144>
+en esa opcion se agrega el bot al canal
+Para la sala+
+<http://bit.ly/TeamPulse1>
+"<https://drive.google.com/drive/folders/1uUnOGkgPj1a5qDzl9AYNQ9acFnDAxcIU>
+
+Aquí pueden encontrar las presentaciones"
+Panel 2 de ISDI-TECH
+Entrando
+El ponente de hoy
+Computer Science :+1:
+Oka
+"Así es. No hace falta que estén toda, puede ser los primero 30 min y la última hora"
+es a las 14.00?
+Gracias
+"Les comparto el enlace
+*<http://bit.ly/ISDIStart2020>*"
+Si pueden estar sería lo ideal.
+Hola. Han cambiado la sesión de hoy y será de *Tech.* 
+toca el liink que dice tempulse que compartieron en el chat
+No te redirecciona
+<http://bit.ly/TeamPulse1|bit.ly/TeamPulse1>
+?
+Como hago para ir a la sala
+van a la sala?
+🥳
+"si, coincido"
+Jajajajaj
+"Da mucho contenido, por momentos aburrido, por momentos muy activo"
+tenemos que hacer un pacto jajaja
+Esta muy bueno
+"Duerme un poco, más dinámico sería mejor."
+"¿Habéis definido un Product Backlog?
+¿Utilizáis un gestor de proyectos?
+¿Las reuniones finalizan en el tiempo acordado?
+¿Cada una de las tareas a acometer tiene definido un responsable, un tiempo de entrega y un ""Definition of Done""?
+¿Habéis definido, por escrito, unos acuerdos de trabajo?"
+"Es muy similar, lo que veo es que aquí nos van a meter más en cintura. Lo cual es muy bueno"
+Buenísimo.
+Okas
+"Oka, entrando!"
+"Si - ""Teampulse - NOMBRE"""
+Teampulse - Nombre?
+Mismo formato?
+Es interesante lo que están diciendo. Así que si se quieren unir.
+<https://eu.bbcollab.com/guest/e861fc69f24b488288564fd12c5ba98e>
+"Genial, yo me sumo :wink:"
+"<https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA|https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA>
+
+<@U01BS8YKHS8>
+Aquí el enlace para el 15. Es a las 12:30h de Argentina.
+
+Gracias."
+"Buenísimo Lean, dale cualquier cosa te aviso :slightly_smiling_face:"
+Yo estoy con la API de typeform
+Si necesitas ayuda avisame
+Bien Vero!
+yo encontré una opción que tengo que probar si funciona primero.... apenas logre que funcione les aviso
+"Me parece bien + lo de <@U01BYMTTXCH>
+Se lo envías y le preguntas si quiere que nos juntemos para más detalles."
+O va a arrancar desde 0?
+Preguntale si el tiene algo armado con respecto a eso
+"Hola <@U01B5AQPV39> respecto de lo que pregunta José Martinez.
+1- Tenemos un slackbot que se conecta al slack de Teampulse, este bot corre por el momento en un servidor local (mi compu). El bot utiliza Flask y Slack Event API.
+2- En este momento estoy en la investigación de lograr que el bot recopile las conversaciones. por ahora no está implementada esa funcionalidad. Por el momento las conversaciones se pueden extraer manualmente desde slack con el usuario Administrador de la cuenta"
+Ya ha preguntado Jose sus preguntas.
+<@U01BDB84630>
+<https://www.typeform.com/connect/c/email-marketing/>
+<https://help.sendinblue.com/hc/es/articles/209582045-Typeform-integre-sus-nuevos-contactos>
+"<@U01BYMTTXCH> <https://es.sendinblue.com/>
+Mira esto"
+<@U01BYMTTXCH> se ha unido al canal
+<@U01BDB84630> se ha unido al canal
+<@U01BS8YKHS8> se ha unido al canal
+<@U01B5AQPV39> se ha unido al canal
+Revisa tu mail y si no la tienes te la envío de nuevo.
+Te pase la invitación. Miércoles 25 a las 12h (Arg)
+A que hora estan esas reuniones ivan?
+"El objetivo es simple. Que vean el producto y cómo lo hemos hecho.
+Si para esa fecha además de lo que tenemos hay un avance más sería lo mejor.
+El martes 24 lo hablamos y dedicamos esa sesión a pensar lo que vamos a decir.
+
+¿<@U01BDB84630> podemos extender la daily 15 min más, así vemos daily y ""pitch de producto ISDI""?"
+Revisando las fechas hablamos el 24 y el 25 tenemos con ISDI sesión de producto
+Vegano
+Jajaja
+Es la razon de hacer un asado
+Ahi te levantas intacto al otro día
+Salvo que comas algo grasoso
+no me deja agregarte.... porque lo creó ivan.... pero este es el enlace
+ok Ivan ! :wink:
+Se ve muy lindo Lean ! felicitaciones !
+Va bien ese color. Me gusta.
+y... les parece que este color se asemeja a los de teampulse ??? no puedo editar justo el mismo color... pero busque uno similar
+Jajajaja
+Vale. Van a estar presentes.
+Esta tarde necesitariamos saber si desafiando horizontes nos va a ayudar a armar los indicadores del dashboard partiendo de la encuesta de bitlogic 
+"Cuando hay ceremonia de planificación y la de la tarde lo es, casi mejor no meter más reuniones "
+Ya que nos reunimos a la tarde
+Claro
+<@U01BXC8LK27>
+Hola
+Hable con dos personas de dos empresas distintas y usan este sistema de comunicación. Me dicen que en sus anteriores puestos lo usaban. A tené en cuenta que ambas personas trabajan en empresas de más de 1.500 empleados.
+<https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html|https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html>
+Entra nomas!
+Recien me libero
+Biennnnn
+felcitaciones por el avance !!
+huy Lean se te voló el tiempo.
+<https://erudit.ai/connectors>
+<https://www.youtube.com/watch?v=O6czmK1y1Eg&amp;feature=emb_title>
+jajaja
+4K
+Tengo una mala salud de hierro
+A mi menos
+El tema es que la resaca no dura un día
+Y a partir de aho ya no tengo muchos planes concretos
+A los 100 pasare hasta los 120 recueparandome del cumpleaños 
+Y asi sicesivamente
+Y luego a los 60 como lo hacía a los 40 osea como a los 20
+"jaja un mix, 25"
+Pero vamos a usar el tiempo para cerrar bien el ultimo sprint
+Hola Buen día Ivan
+"Hola. Buen día.
+¿Hoy supongo la daily la tenemos?"
+jajaja
+Total el dolor de panza dura un día o 2
+"no importa, no rechazamos las invitaciones, cierto <@U01BYMTTXCH>??"
+Esta el mar demasiado lejos
+Jajaja
+Que graaande
+Y poder cambiar logo
+Asi que deberiamos tener lo hiden fields para guardar la identidad de las encuestas
+Buen día
+Jajajaj
+Ahora tocA como a los 30 que es mas peligroso 
+"Ahhh ok, sucedió algo ?"
+Un gohan para mi
+Gracias por tanto Jose
+<@U01BDB84630> nos invitas a comer Sushi ????? :clap::clap::clap:
+"jajaja perjudicado.
+No te preocupes.
+Festeja como de 20"
+50 no se cumplen todos los días
+Esta perfecto
+Jajajajja
+No me gusta el sushi de aqui
+<https://drive.google.com/drive/u/1/folders/1ghXs77TOlmFgjsS9RRlHAyd5Fm2vXkKD>
+Cumplo 50
+Chicos antes de la planning mañana es mi cumple asi que voy a estar muy poco presente mañana y si hay celebración probablemente pasado este un poco perjudicado
+Jajaja
+Cuidese no mas
+hola buenos días ! ok :wink:
+"Vero y Lean, qué buen avance, bien bajado todo."
+Gracias!
+"Vero y Lean, qué buen avance, bien bajado todo."
+ahh buena observación
+Seguro fui yo ese
+Fijate que tienen el mismo patron de usar el signo !
+en rojo marqué cosas que me llamaron la atención porque no condicen... le tengo más confianza a la librería en inglés
+"con el texto en español (verde) obtengo las nuevas columnas... lo que me dá es un porcentaje de negatividad, neutralidad y positividad de cada mensaje y dsp toma una decisión y lo clasifica en uno de los 3... lo guardé en la columna CLASS"
+Excelente Vero!
+con el texto en inglés (celeste) obtengo los indices que ya habiamos visto
+he aqui los resultados
+"Segundo: probé la librería nueva que trabaja con textos en español, asi no tendríamos la necesidad de traducir..."
+"Primero: después de mucha búsqueda, vi que solo hay 6 librerías de traducción que son las más usadas y recomendadas... la mayoría se basan por detrás en la API de google translate.... me di con que me surge el problema de que hacemos demasiadas request... pero pero pero.... logré darle la vuelta de rosca y ahora ya podemos traducir, seteándole un tiempo de sleep entre cada request."
+En cuanto a lo del análisis de polaridad... a ver que opinan
+Sino que a todos
+Quedamos en que por ahora no se va a seleccionar a quien enviar
+"No, como todas las entrevistas se modifican segun quien sea el que responde"
+Hermoso
+Y mandarla jajajaj
+Ahora viene la fiesta elegir a quien se la mandas
+yo tengo algo que comentarles.... respecto del análisis de polaridad
+me gusta mucho !! felicitaciones !
+Visual lista
+Sprint que viene?
+Eso nos ayudaría muchisimo
+Si
+<@U01BYMTTXCH> 
+De ahi los deberiamos poblar en el mongo
+"Buenas ! en la encuesta actual,  tenemos los datos que marque en negrita.... el resto de los datos no se preguntaron asi que no los tenemos"
+"*ID del empleado:* tenemos un número generado al responder la encuesta
+Nombre /
+Apellido /
+Fecha de Nacimiento /
+*Fecha de ingreso a la cía:* Tenemos el dato de la antigüedad
+Gerencia /
+*Subgcia, sector o área:* Tenemos el dato del equipo de trabajo
+Género /
+*Lidera equipo (s/n):* Tenemos el dato del puesto
+Fecha desde la que lidera equipo"
+Un saludo.
+"ID del empleado / Nombre / Apellido / Fecha de Nacimiento / Fecha de ingreso a la cía / Gerencia / Subgcia, sector o área / Género / Lidera equipo (s/n) / Fecha desde la que lidera equipo
+
+Estos datos nos los podría pasar Vero de RRHH de Bitlogic y que considera DH que son buenos a la hora de las encuestas.
+Con ellos podríamos cruzar información y tener la data sin sesgos.
+Si ven uno que no este y sea conveniente me lo dicen para pedirlo y agregarlo."
+"Ivan, si querés podes compartir esta imagen... ami no me deja"
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09>
+Gracias
+Docker
+"Anaconda, Python, Jupyter Notebook, GitHub, Docker"
+"React js, Express, Node js, Mongo DB, Google sheets, git, aws"
+"Así como las que en un futuro ven necesarias.
+
+Gracias"
+Si
+Hola. Ya me lo han pasado pero no lo encuentro. Me comparten las tecnologías que utilizamos por favor.
+buenos días Lean !
+Hoy voy a estar con el proceso de envio de encuestas
+"Buen día, como estan?"
+Me parece mejor la opción 3
+"Una pregunta. Bitlogic nos pasará la información de los colaboradores como, nombre, fecha de ingreso, si lleva a personas, área y dos más que ahora no recuerdo.
+
+Mi pregunta es, ¿una vez que tengamos esta información tendríamos un registro único durante todo el tiempo que responde una persona de todas las preguntas?
+Me refiero a la trazabilidad, saber que siempre nos ha respondido JUAN PEREZ"
+<https://github.com/finiteautomata/pysentimiento/>
+"La opción 3 puede ser. Cómo se llama la librería, estoy en el Clúster de IA y puede ver si desde ahí nos puedan apoyar."
+La directora es laura ?
+"*Como opciones:*
+*1-* podemos ver la posibilidad de tener una cuenta para poder pegarle a la api accediendo con tokens seguramente... no se si eso tendrá un costo... supongo que si....
+*2-* puedo buscar otra forma de traducir... ya había probado T*extBlob* pero me había pasado lo mismo por eso me cambie a *googletrans*
+*3-* la directora de la diplomatura me compartió una librería para análisis de texto en español que salió la semana pasada, es super nueva... es desarrollada por unos amigos de ella en España.... asi que al menos tenemos esa otra opción."
+"resulta que llegué al limite de traducciones desde una IP particular... lo que no se es si tengo que esperar para volver a traducir, o puedo tener la IP temporalmente bloqueada por la API de google...."
+Buenas !!! ya se que sucede con las traducciones....
+entones antes que palabra valdria usar sendgrid
+"Nos va ayudar bastante, Vamos a tener esto JL:
+
+12 months of email credit worth ($339.95/month) which gives you access to the Pro 100 Email API &amp; Advanced 50 plans.
+A one-time $100 “getting-started” Twilio credit.
+Office hours &amp; mentoring from Twilio team of experts.
+6 months free access to <http://Loader.io|Loader.io> to stress test web apps &amp; APIs."
+igual whatsapp oficial te acaba costando una cantidad interesante de plata
+Seeeeee
+para whatsapp esta hermoso
+Puede ser un canal para el bot
+Si
+y en voz tienen mucho
+sms ...
+TWILIO ESTA HERMOSO del lado de chatbot via whatsapp y demas
+"Ya me di de alta, ahora hay que esperar a que verifiquen que estamos en el programa de ISDI.
+Pero bien, en cuanto tenga la información te la comparto."
+Pero lo hago hoy.
+Doy de alta hoy la cuenta. Habrá que escribir a los de Twilio para que nos activen la promo. Desconozco el tienpo que pueden tardar.
+Con un godady y chau
+Si
+Igual tenemos que ver como levantar el mongo
+Si
+que suerte tener un buen mentor en estas cosas :slightly_smiling_face:
+AHI LE APUNTAMOS UN SUBdomain y listo no +
+Un crack Gonzalo
+BIEN AHI
+Esta subido
+<http://54.167.4.192/>
+<@U01B5AQPV39> generaste la cuenta del twilio?
+Si
+creo que la calve ahora es el excheduler
+<@U01B5AQPV39> tenes algo de la visual de el envio de encuestas?
+dejalo para lo ultimo
+Lo de GTM lo voy a poder hacer una vez que este deployado el sistema
+Si
+Y nos dan créditos. Importante aclarar.
+Es bastante potente
+Ivan estuvo haciendo un research
+<@U01BDB84630> <https://www.twilio.com/> Vamos  a usar esta aplicacion en lugar de <http://palabra.io|palabra.io>
+No me llego
+Dime si la tienes
+Enviada.
+No me llego
+Revisa tu mail y si no la tienes te la envío de nuevo.
+Te pase la invitación. Miércoles 25 a las 12h (Arg)
+A que hora estan esas reuniones ivan?
+"El objetivo es simple. Que vean el producto y cómo lo hemos hecho.
+Si para esa fecha además de lo que tenemos hay un avance más sería lo mejor.
+El martes 24 lo hablamos y dedicamos esa sesión a pensar lo que vamos a decir.
+
+¿<@U01BDB84630> podemos extender la daily 15 min más, así vemos daily y ""pitch de producto ISDI""?"
+Revisando las fechas hablamos el 24 y el 25 tenemos con ISDI sesión de producto
+<https://erudit.ai/connectors>
+<https://www.youtube.com/watch?v=O6czmK1y1Eg&amp;feature=emb_title>
+Hola Leandro. Lo miro.
+"Ivan, te pido que generes una cuenta en <http://palabra.io|palabra.io> si puede ser"
+jajaja
+4K
+Jajajaja
+jaja
+Vas a volver a ver en hd
+Ya se organizan con Hernán y Victoria
+:wink:
+Sin probelama
+No pasa nada Vero!
+"Buenas ! les quería avisar que voy a necesitar salir un rato a eso de las 17.00, porque recién me avisaron que ya está listo mi otro par de lentes... asi que me llego a la óptica a buscarlos y vuelvo...."
+"Bueno, vuelvo a tener PC"
+Gracias Vero
+Entregables para Bitlogic -Encuestas de Bienestar
+Tengo una mala salud de hierro
+A mi menos
+A los 100 pasare hasta los 120 recueparandome del cumpleaños 
+Y asi sicesivamente
+Y luego a los 60 como lo hacía a los 40 osea como a los 20
+"jaja un mix, 25"
+Jajajaj
+Ahora tocA como a los 30 que es mas peligroso 
+"jajaja perjudicado.
+No te preocupes.
+Festeja como de 20"
+50 no se cumplen todos los días
+Esta perfecto
+Cumplo 50
+Chicos antes de la planning mañana es mi cumple asi que voy a estar muy poco presente mañana y si hay celebración probablemente pasado este un poco perjudicado
+genial !
+En la Daily de hoy se suma una scrummaster que nos va a ayudar con el ultimo sprint
+genial! después si te parece que cambiemos los colores de los otros gráficos avisame nomás
+y... les parece que este color se asemeja a los de teampulse ??? no puedo editar justo el mismo color... pero busque uno similar
+Empleado o colaborador
+a partir de acá entramos al análisis y visualización de los datos
+"ok, recien me pongo con las encuentas, porque estaba trabajando la base de datos de slack"
+Por mi bien. <@U01BS8YKHS8> pásame hoy lo que tengas para darle una vuelta también.
+Avisa nomas
+Si. Mañana lo podemos ver u hoy más tarde.
+"ok, ya me puse con esto josé... estoy haciendo la limpieza primero..."
+"si si, es para los datos que ya tenemos"
+Es una petición reiterada de veronica
+Pero el tema es ver como volcamos los resultados que ya tenemos en el dashboard que ya tenemos
+Ok
+"me dijo que cuando las tuviera, me iba a decir esta semana asi me las pasa y yo con esos lineamientos, me puedo guiar para trabajar con los datos de las encuestas"
+también le pedi que me planteara que preguntas quiere responder con los datos  de las encuestas... asi yo a partir de eso trabajo con las respuestas para generar graficos que respondan a esas preguntas
+"si josé.... ya me junté la semana pasada con él... y le plantié que buscara de unir los grupos de indicadores que ellos crearon con las 60 preguntas para ver si las preguntas de bitlogic se alinean a eso, aunque sea en parte....."
+Vero una cosa tu tenias que juntarte con hernan para ver el tema de como llevarnos al dashboard los resultados de la encuesta de bitlogic ?
+Genial Vero!
+Jajaja
+me compraron el Curso de Procesamiento de lenguaje natural :tada:
+Buenas noticias !!!
+Abrazo.
+"Vale. No te preocupes. 
+Mañana hablamos y me cuentas."
+"Tenemos una reunión con Gonzalo Espert, nos va a explicar como hacer CD/CI"
+Hoy no vamos a tener daily
+Como estas?
+<@U01B5AQPV39> buen día
+Vale. Van a estar presentes.
+Esta tarde necesitariamos saber si desafiando horizontes nos va a ayudar a armar los indicadores del dashboard partiendo de la encuesta de bitlogic 
+"Cuando hay ceremonia de planificación y la de la tarde lo es, casi mejor no meter más reuniones "
+Ya que nos reunimos a la tarde
+Creo que no es necesario
+Hola Buen día Ivan
+"Hola. Buen día.
+¿Hoy supongo la daily la tenemos?"
+jajaja
+Total el dolor de panza dura un día o 2
+Claro
+"no importa, no rechazamos las invitaciones, cierto <@U01BYMTTXCH>??"
+Esta el mar demasiado lejos
+Jajaja
+Un gohan para mi
+Gracias por tanto Jose
+Jajajajja
+No me gusta el sushi de aqui
+Que graaande
+Jajaja
+<@U01BDB84630> nos invitas a comer Sushi ????? :clap::clap::clap:
+"Gracias. Ya les escribí, espero se una alguien."
+No pasa nada!
+Asi que deberiamos tener lo hiden fields para guardar la identidad de las encuestas
+Bueno ahi tenemos el contenedorcito bitnami
+Eso hay que verlo
+Donde despliegas ?
+Muy bien 
+Ya esta lo de github actions Joseeeeeee
+Hable con dos personas de dos empresas distintas y usan este sistema de comunicación. Me dicen que en sus anteriores puestos lo usaban. A tené en cuenta que ambas personas trabajan en empresas de más de 1.500 empleados.
+<https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html|https://www.cisco.com/c/en/us/products/unified-communications/jabber/index.html>
+Diaculpen
+Dale
+Pue ser ?
+Denme 5 y me sumo
+Dale! no hay drama
+"Nos adelantaron una reunión. No podré estar en la daily.
+
+<@U01BYMTTXCH> te paso lo de Google.
+
+Una disculpa."
+"Hola a todos.
+
+Buen día. Qué bien con el avance."
+Biennnnn
+felcitaciones por el avance !!
+huy Lean se te voló el tiempo.
+Asique voy a seguir ahora
+Y cuando me di cuenta de la hora era la 1 de la mañana
+Yo me quede viendo algunos tutoriales para ver de dejar el actions de github funcionando
+Ayer con Pau estuvimos avanzando pero no llegamos a completarlo
+Buen día
+"Comparto el enlace de la sesión de hoy, por si alguien se quiere sumar.
+Va sobre ""Negocio""
+
+<http://bit.ly/ISDIStart2020>"
+Yo igual
+me creó una carpeta por cada canal publico y dentró están los archivos .JSON de las conversaciones
+movimiento*
+Entra a dailys que es donde hay más moviento
+aca los tengo !
+Pasemos a asumir que eatas en un canal donde te han invitado
+De todos modos vero no te mates
+Lo hiciste desde el bot?
+Qué bien
+Bieeeeen
+Si
+si
+Hay una versión de prueba gratuita
+"asi que si el administrador puede elegir que el bot no se una al canal donde quiere compartir información sensible de la empresa, como fórmulas y esas cosas"
+"De todos modos me parece que funciona igual que los bots que veníamos viendo.... paa que exporte, tiene que ser agregado al canal... ya sea publico o privado"
+¿Pagando por empresas que nos conectemos o anual X empresas?
+<https://www.backupery.com/products/backupery-for-slack/>
+"Esta se llama Backupery y permite descargar todo el historial de slack, ya sea de canales publicos o privados... también es paga... por ahora veo que para obtener las conversaciones de canales privados o chat de a pares las opciones son pagas...."
+Buenas ! esta es otra App como la que les pasé ayer de Flatly....
+:hugging_face:
+Muy bueno Vero!
+Cool
+<https://towardsdatascience.com/how-we-scraped-data-off-a-slack-group-2b5181ba51bb>
+"Esta nota la habia enocntrado hace unos días... no es un tutorial, pero si  presenta un listado de ideas de datos que se pueden extraer de slack con los bots. no son conversaciones pero también nos pueden ser de utilidad extraer estos parámetros, como para darle un contexto a las conversaciones"
+<https://medium.com/the-flatly-blog>
+les paso el blog de ellos
+ahhh si
+Jobs files ...
+Igual habría que ver como definen los limites 
+si no es para hipertensos la cosa jajaja
+Pero es salado si o
+Sis is
+mas abajo está para acceder a un periodo gratuito de prueba.... ellos extraen la info y te la dan en formatos planos como excel
+Myer briggs esta buenísimo 
+Aho regreso
+Se me murio el ipad
+Lindo
+<https://www.crystalknows.com/>
+<https://docs.google.com/presentation/d/18VibL-Qzj7L0b8ByU_xk3k-MiUIoHjcbY_shnyUxtTA/edit#slide=id.g8656a07ded_1_1144>
+en esa opcion se agrega el bot al canal
+Para la sala+
+<http://bit.ly/TeamPulse1>
+"<https://drive.google.com/drive/folders/1uUnOGkgPj1a5qDzl9AYNQ9acFnDAxcIU>
+
+Aquí pueden encontrar las presentaciones"
+Panel 2 de ISDI-TECH
+Entrando
+El ponente de hoy
+Computer Science :+1:
+Oka
+"Así es. No hace falta que estén toda, puede ser los primero 30 min y la última hora"
+es a las 14.00?
+Gracias
+"Les comparto el enlace
+*<http://bit.ly/ISDIStart2020>*"
+Si pueden estar sería lo ideal.
+Hola. Han cambiado la sesión de hoy y será de *Tech.* 
+toca el liink que dice tempulse que compartieron en el chat
+No te redirecciona
+<http://bit.ly/TeamPulse1|bit.ly/TeamPulse1>
+?
+Como hago para ir a la sala
+van a la sala?
+🥳
+"si, coincido"
+Jajajajaj
+"Da mucho contenido, por momentos aburrido, por momentos muy activo"
+tenemos que hacer un pacto jajaja
+Esta muy bueno
+"Duerme un poco, más dinámico sería mejor."
+"¿Habéis definido un Product Backlog?
+¿Utilizáis un gestor de proyectos?
+¿Las reuniones finalizan en el tiempo acordado?
+¿Cada una de las tareas a acometer tiene definido un responsable, un tiempo de entrega y un ""Definition of Done""?
+¿Habéis definido, por escrito, unos acuerdos de trabajo?"
+"Es muy similar, lo que veo es que aquí nos van a meter más en cintura. Lo cual es muy bueno"
+Buenísimo.
+Okas
+"Oka, entrando!"
+"Si - ""Teampulse - NOMBRE"""
+Teampulse - Nombre?
+Mismo formato?
+Es interesante lo que están diciendo. Así que si se quieren unir.
+<https://eu.bbcollab.com/guest/e861fc69f24b488288564fd12c5ba98e>
+"Genial, yo me sumo :wink:"
+"<https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA|https://runahr.zoom.us/webinar/register/WN_wo9mvbCcQFaId_wlwMdlYA>
+
+<@U01BS8YKHS8>
+Aquí el enlace para el 15. Es a las 12:30h de Argentina.
+
+Gracias."
+"Buenísimo Lean, dale cualquier cosa te aviso :slightly_smiling_face:"
+Yo estoy con la API de typeform
+Si necesitas ayuda avisame
+Bien Vero!
+yo encontré una opción que tengo que probar si funciona primero.... apenas logre que funcione les aviso
+"Me parece bien + lo de <@U01BYMTTXCH>
+Se lo envías y le preguntas si quiere que nos juntemos para más detalles."
+O va a arrancar desde 0?
+Preguntale si el tiene algo armado con respecto a eso
+"Hola <@U01B5AQPV39> respecto de lo que pregunta José Martinez.
+1- Tenemos un slackbot que se conecta al slack de Teampulse, este bot corre por el momento en un servidor local (mi compu). El bot utiliza Flask y Slack Event API.
+2- En este momento estoy en la investigación de lograr que el bot recopile las conversaciones. por ahora no está implementada esa funcionalidad. Por el momento las conversaciones se pueden extraer manualmente desde slack con el usuario Administrador de la cuenta"
+Ya ha preguntado Jose sus preguntas.
+<@U01BDB84630>
+<https://www.typeform.com/connect/c/email-marketing/>
+<https://help.sendinblue.com/hc/es/articles/209582045-Typeform-integre-sus-nuevos-contactos>
+"<@U01BYMTTXCH> <https://es.sendinblue.com/>
+Mira esto"
+<@U01BYMTTXCH> se ha unido al canal
+<@U01BDB84630> se ha unido al canal
+<@U01BS8YKHS8> se ha unido al canal
+<@U01B5AQPV39> se ha unido al canal
+Muchas gracias!
+:raised_hands: vamos avanzando y bien
+Muchas gracias !
+linda reunión! felicitaciones chicos!!
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09#success>
+<https://us02web.zoom.us/j/2673612760?pwd=YTk4N0JwNFBtZVk4QmVCazE3K0hEZz09>
+tienen el link?
+es por zoom
+Buenas ! estamos con José en la meet  de ISDI
+<@U01BS8YKHS8> me encanta como se ven esas gráficas!!
+"Qué bien se ve. Buen trabajo.
+Ya nos cuentan <@U01BS8YKHS8> <@U01BYMTTXCH> que tal en el all hands hoy.
+
+Un abrazo."
+"Como las chicas de RRHH habían definido otra agrupación para las preguntas, lo hicimos tmb así asi lo pueden ver como ellas lo vienen trabajando, y de paso nos sirve para comparar como se están creando los grupos en los dos casos"
+*2- Se muestras los índices y las preguntas que los conforman agrupados por Bitlogic*
+*1- Se muestran los factores y sub-factores definidos por Desafiando Horizontes*
+"Hola a todos ! buenas tardes !! les cuento que recién termino de reanalizar la encuesta de bitlogic.... les paso el último gráfico de resumen hecho para la misma encuesta, con dos agrupaciones de datos diferentes...."
+"Comparto esto. Son ""perks"" que nos da ISDI por estar en el proceso de aceleración.
+
+Si consideran que uno o más nos sirven me lo dicen y lo pido.
+
+Un abrazo."
+GRACIAS
+"Subo la presentación de lo que hablamos hoy.
+<@U01B5AZNSB1> y yo vamos a definir los plazos así como la(s) persona(s) que estará en esa actividad.
+
+Cualquier comentario es bienvenido.
+
+Un saludo."
+yo no tengo problema :wink:
+Puedo
+10-11 tengo una reunión 
+puedo :+1:
+Sería una reunión de 45 min.
+"Buen día. ¿El miércoles 18 a sus 10:30h les viene bien una reunión? el objetivo, comentarles cuales son los entregables y KPIs que se han definido con ISDI.
+Es importante que todos los sepamos y estemos alineados a eso."
+:raised_hands:
+Se ve muy bien y lo mejor sería utilizarlo de nuevo de cara las siguientes encuestas.
+"Bueno, lo comentamos en la daily genial"
+Ok
+"este último gráfico lleva más tiempo porque es más artesanal, pero como ya logré que el código lo genere, tmb es cuestión de reemplazar nombres y procentajes"
+"el esqueleto general si tiene provecho, pero voy a tener que ajustar algunas cosas, como los nombres de los parámetros que usé, ya que son otras preguntas.... pero seria algo asi como reemplazar valores en una fórmula"
+Porque el dataset va a ser distinto de lo de Bitlogic
+Todo esto que estas haciendo tiene provecho también con las encuestas que nos faciliten desafiando horizontes ?
+muchas gracias ! si decime
+Una cosita
+Esta precioso
+Precioso
+y..... con un poco de edición en CANVAS.... quedó así
+Logré hacer este gráfico de dona doble:
+Te nacieron peces nuevos
+Muy buenos días ! les tengo novedades
+"Como les comenté anteriormente, en este caso puede optar por usar el promedio o la mediana.... el promedio se ve afectado por valores extremos y la mediana no.... pero en este caso no tenemos valores que nos modifiquen mucho los índices.... de todos modos calculé los dos para comparar"
+Perfecto
+en esos números esta resumida toda la info de las encuestas
+"Buenas tardes ! estuve trabajando con las áreas, les muestro lo que obtuve:
+1- Agrupe es distintos set de datos las preguntas que pertenecían a un área específica
+2- Calculé medidas de resumen (el promedio y la mediana) de cada pregunta
+3- Calculé un promedio general que resuma la información de todas las preguntas"
+"De estos... armé un par para cada comentario.... son 6.... tengan en cuenta para leerlos que el indice de subjetividad va de 0 a 1.... y el de polaridad va de -1(mensajes negativos) a 1(mensajes positivos).... por eso se ve despegado del eje X.... yo acorté el eje... desde -0,2 en adelante porque no teniamos comentarios negativos.... es para que no quede tan vació esa parte de abajo del grafico"
+muchas gracias <@U01BH0Q8MHB> !
+Está excelente @vero <@U01BS8YKHS8>!
+"Ya va tomando forma, poco a pco"
+Qué buen análisis
+"p/d: no vallan a creer que detecto a ojo el tono de rojo que es mayor a 0,7 jajaja.... aparte de esto obtengo una matriz de números, a la cual la coloreo con este mapa de calor.... y luego los números no se muestran para que no quede sobrecargado el gráfico"
+Excelente Vero!!!
+"Lo que llama la atención es lo que marqué en rojo: el estres laboral no, está correlacionado con la cantidad de trabajo..... asi que eso muestra que hay otros factores además del trabajo que están estresando a los empleados."
+"Cuando el índice de correlación es mayor a |0,7| las variables están altamente correlacionadas y se recomienda eliminar una del par..... en este caso tenemos tres pares de variables que superan los 0,7 (las marqué en azul) -&gt; son 3 preguntas que se podrían eliminar por ejemplo porque no aportan información diferencial"
+Buenas tardes como están ? miren... este sería el análisis de correlación de las preguntas de la encuesta de bitlogic
+<https://drive.google.com/drive/u/1/folders/1vt-9Gp1-iyBi4nOi388QfdRxTyPDzfM2>
+"Les comparto la carpeta del drive donde voy subiendo la info procesada de la encuesta de Bitlogic, hay gráficos, notas y tablas"
+okas!!!
+El reposicionamiento en google
+Mas adelante vamos a ver eso
+teampulse.ia
+ahhh :slightly_smiling_face:
+por eso es ia
+También esta
+"Hola, buen día
+Encontré esto en google.. Lo paso porque no se si pueda ser una traba por nuestro nombre y dominio"
+:muscle:
+Genial VEro!!!
+"Resumiendo: La forma correcta de tratar las series temporales es la que ven en el primer gráfico. ya que trata a los valores de fechas, como valores continuos y no discretos como los otros dos gráficos..... pero les compartí todos para que vean y puedan comparar"
+3. Graficos de lineas: comparo en el mismo gráfico ambos índices para cada canal.... y puedo ver que están muy relacionados.... siguen un patron bastante similar.... por lo que se aprecia que la subjetividad en los mensajes implica que le agrego una carga emocional por lo que se vuelven mas negativos o positivos
+Queda mejor así
+2. Graficos de barras: no muestran los datos de forma continua como el gráfico anterior....
+"1. Grafica de series temporales más recomendada... en el eje X va la cantidad de días, en el eje Y el valor del índice: Para este ejemplo es el índice de polaridad en el canal DAILY"
+Buenas a todos ! paso a mostrarles algunos graficos de los indices en función del tiempo......
+:raised_hands:
+Hermoso
+Se ve muy bien. Hoy nos lo cuentas
+Muy bueno Vero!
+estoy trabajando en una Notebook de Jupyter para ir probando diferentes graficos y transformaciones de datos... Todo es en Python
+Con que lo  estas armando ?
+Fantástico 
+Genial
+Buenos días ! les voy compartiendo algo de los 2 índices que estamos obteniendo
+"*<https://runahr.com/recursos/covid/covid-19-una-nueva-causa-de-burnout/|COVID-19, una nueva causa de burnout>*"
+"Hola Vero.
+
+Qué buena noticia, me da gusto que esto vaya avanzando.
+Muy buen trabajo ahí.
+
+:+1: :tada:"
+Muy bien Vero!
+Estan hasheados :wink:
+Para que vayan chusmeando.... ¿Cual es el canal más usado?
+"por ahora necesito traducir los mensajes porque las librerías  que encontré trabajan en inglés, en esta prueba use TextBlob"
+Me hizo renegar la traducción jajaja pero estoy re contenta de que salio !!
+Genia!
+Bien ahiiiiii vero!!!
+les comento !! despues de un primer proceso de pre-procesamiento de los mensajes de slack.... ya estaríamos teniendo info de dos índices de sentimiento !! POLARIDAD y SUBJETIVIDAD
+Buenas tardes !!!!
+"<mailto:veronica.bornancini@bitlogic.io|veronica.bornancini@bitlogic.io>
+<mailto:victoria.yazlle@gmail.com|victoria.yazlle@gmail.com>"
+"<https://www.youtube.com/watch?v=_jWbkuDmpAI>
+
+Esto es muy interesante."
+"Hola.
+
+Posiblemente les llegue un mail de la aceleradora ISDI, revisen su SPAM.
+Desconozco el contenido.
+
+Un saludo."
+"Hola a todos.
+
+Buenos días. Vi esto y me pareció interesante. Buena semana."
+excelenteeeeee!!!!!! feliciatciones equipazo!!!
+Felicitaciones!!!!  excelente paso!!!
+Felicitaciones <@U01B5AQPV39>!!! Y a todo el equipo por  Este gran paso:muscle::muscle::muscle:
+Que buena noticia <@U01B5AQPV39> !!!!! me alegro un montón !
+"Les voy compartiendo la información que me hagan llegar.
+
+Ya nos organizaremos para definir muy bien los hitos y esas cosas."
+Como van a ser los encuentros?
+Felicitaciones a todos!
+Geniaaaaaaaal!
+Así que felicidades a todos.
+"Les comento que hemos sido aceptados en el proceso de aceleración de ISDI.
+Tendrá inicio el 11 de noviembre y finalizara con el ""Demo day"" ante inversores el día 16 de febrero."
+Buenos días!
+Buenos días.
+Hola equipo.
+Que le agradezcan a la cuarentena jajaja
+<https://twitter.com/JonErlichman/status/1321218260369551360?s=09|https://twitter.com/JonErlichman/status/1321218260369551360?s=09>
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> descargar
+<@U01BXC8LK27> se ha unido al canal
+"Si alguien se quiere unir bienvenido, no hace falta que estén toda la sesión."
+"La sesión de hoy es de ""Product planning"""
+"Hola a todos.
+
+Como saben esta semana es también del proceso de pre aceleración.
+El enlace para acceder es el siguiente <http://bit.ly/ISDIStart2020>"
+"*NOTA*: lo que compartí es de lo que se habló hoy en el panel de ISDI. creamos una cuenta en TRELLO, donde armamos un dashboard y creamos tareas para definir estos puntos de los esquemas. Como entregable de la primer sesión debemos dejarlos por escrito para que luego ellos lo vean y nos den una devolución."
+UN EJEMPLO PARA RELLENAR NUESTROS PROPIOS ESQUEMAS:
+"*Customer Profile*:
+*Gains*: los beneficios que el cliente espera y necesita, lo que deleitaría a los clientes y las cosas que pueden aumentar la probabilidad de adoptar una propuesta de valor.
+
+*Pains*: las experiencias negativas, las emociones y los riesgos que experimenta el cliente en el proceso de realizar el trabajo.
+
+*Customer Jobs*: las tareas funcionales, sociales y emocionales que los clientes intentan realizar, los problemas que intentan resolver y las necesidades que desean satisfacer."
+"*Value proposition:*
+*Gain Creators*: cómo el producto o servicio genera ganancias para el cliente y cómo ofrece valor agregado al cliente.
+
+*Pain relievers*: una descripción de cómo exactamente el producto o servicio alivia los dolores del cliente.
+
+*Products &amp;  services*: los productos y servicios que generan beneficios y alivian el dolor, y que sustentan la creación de valor para el cliente."
+ejemplo
+"Examples - Apache ECharts (incubating)
+<https://echarts.apache.org/examples/zh/editor.html?c=area-simple>"
+"Hola.
+
+Buen día a todos.
+Les comparto esto que me llegó de un grupo de Slack que estoy de RRHH.
+Es interesante
+<https://www.notion.so/Manual-Alto-Rendimiento-1ffcb56450df4b6a8e34c0d5be37bc63>
+
+Un saludo."
+<https://drive.google.com/drive/folders/1_7b7JsIEkNoIoXEv-ZacYhUv7p5ggb_x> <@U01BH0Q8MHB> <@U01BL3ARGV8>
+"Hola. Ahora si estamos todos por aquí.
+
+Buen día.
+
+Por cierto, el viernes junto con <@U01BL3ARGV8> hablamos con Vero y Cande de RRHH de Bitlogic para el tema de las encuestas.
+
+Hoy hablo con el country manager de Rankmi para ver el tema de la NOM 035 en México y saber cómo lo hacen y si es que tienen un valor agregado además de las las encuestas, si alguien si quiere sumar me lo dice y comparto el enlace, es a las 17h (Argentina).
+
+Y mañana <@U01B5AZNSB1> y yo hablamos con un chico de México para saber cómo nos puede ayudar y si estamos en etapa de buscar financiación.
+
+Así que les vamos contando."
+Buenas!
+hi!
+Hola a todos!  Ya estoy en slack!
+Buen día jóvenes 
+<@U01C9U40LTS> se ha unido al canal
+<@U01BL3ARGV8> se ha unido al canal
+hola!
+Yo también me uno
+<@U01B5AZNSB1> se ha unido al canal
+<https://gympass.zoom.us/w/93141330630?tk=XaZb91pcObane0aZH_5DbqcIv1UMh5mU-Z5lxweJO9s.DQIAAAAVr6fqxhZDRVp3RGcycFFMeW5xNDRab2VOai1BAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;uuid=WN_wofh_kJNTcS_4oTt26BsCQ>
+"Me voy a unir a esta charla ""Salario Emocional” Pilares e importancia dentro de las empresas nos la compartió <@U01BS8YKHS8> el enlace es el siguiente por si alguien se quiere sumar"
+:wave: Hello!
+Jeñou
+:wave: ¡Hola a todo el mundo!
+:wave: Hi everyone!
+<@U01BL9EATFV> se ha unido al canal
+<@U01BYMTTXCH> se ha unido al canal
+<@U01BDB84630> se ha unido al canal
+<@U01BS8YKHS8> se ha unido al canal
+<@U01BH0Q8MHB> se ha unido al canal
+":wave: Hola, equipo."
+<@U01B5AQPV39> se ha unido al canal
+Hasta la tarde
+El tema es que la resaca no dura un día
+Ahora tenemos daily ?
+Va bien ese color. Me gusta.
+Jajajaja
+uso la palabra 'empleado' en los gráficos?? o quieren otra palabra ?
+Así mañana en mi mañana lo miro.
+mejor mañana si pueden. asi les muestro con qué avance hoy
+Voy en carretera ahora.
+<@U01B5AQPV39> esto es medio crítico teniendo en cuenta cuando sacaron la encuesta. Puedes ayudar a que suceda asap ?
+<https://drive.google.com/drive/u/1/folders/1ghXs77TOlmFgjsS9RRlHAyd5Fm2vXkKD>
+Dale Ivan! Buen día!
+Ya somos professional 
+Donde esta la web
+Oleoleole
+Ahora lo veo!
+Entra nomas!
+yo puedo por la tarde
+Les armo canal
+me generó ahora un token de desgarga y estoy en eso...
+yo acabo de exportar desde slack el historial completo de los canales publicos que tenemos acá....
